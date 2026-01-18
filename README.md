@@ -13,7 +13,7 @@ Agent Skill 是一套結構化的指令、範例與最佳實踐，用於擴展 A
 ## 📊 快速總覽
 
 - **Skills 總數**：32 個
-- **主要分類**：網頁開發、資料庫設計、文件撰寫、測試驗證、除錯分析、AI/ML 工具、生產力工具、DevOps 工具、協作與架構、自定義工具
+- **主要分類**：網頁開發、資料庫設計、文件撰寫、測試驗證、除錯分析、AI/ML 工具、生產力工具、DevOps 工具、協作與架構、Agent 工具
 - **來源**：Anthropic 官方（16）、OpenAI 官方（3）、Skill Creator AI（4）、Obra Superpowers（3）、HuggingFace 官方（1）、自定義（3）、社群貢獻（2）
 
 ## 🎯 常見使用場景
@@ -34,6 +34,7 @@ Agent Skill 是一套結構化的指令、範例與最佳實踐，用於擴展 A
 
 ### 需要測試或除錯？
 → [**Systematic Debugging**](./skills/debugging/systematic-debugging/SKILL.md) — 專家級四階段除錯流程 (New!)
+→ [**Code Debugging Analysis**](./skills/debugging/code-debugging-analysis/SKILL.md) — 系統化除錯方法論 (Intermediate)
 → [**TDD**](./skills/testing/test-driven-development/SKILL.md) — 嚴格的紅/綠/重構開發模式 (New!)
 → [**QA Regression**](./skills/testing/qa-regression/SKILL.md) — Playwright 回歸測試架構
 
@@ -65,11 +66,11 @@ Agent Skill 是一套結構化的指令、範例與最佳實踐，用於擴展 A
 
 ## 🆕 最新 Skills
 
-- **[撰寫產品需求文件 (PRD)](./skills/documentation/write-prd/SKILL.md)** (2026-01-18)  
-  商業導向的 PRD 撰寫指引，強調架構優先與情境化描述
+- **[Systematic Debugging](./skills/debugging/systematic-debugging/SKILL.md)** (2026-01-19)  
+  源自 obra/superpowers 的專家級除錯指引，採用「根本原因分析法」四階段流程
 
-- **[建立美觀落地頁](./skills/web-development/create-landing-page/SKILL.md)** (2026-01-18)  
-  快速建立專業級響應式落地頁，包含現代設計原則與動畫效果
+- **[Brainstorming](./skills/collaboration/brainstorming/SKILL.md)** (2026-01-19)  
+  蘇格拉底式提問引導設計，幫助將模糊想法轉化為具體架構
 
 ## 🤔 如何選擇適合的 Skill？
 
@@ -91,7 +92,7 @@ Agent Skill 是一套結構化的指令、範例與最佳實踐，用於擴展 A
 
 ## 📖 完整文檔
 
-- **[完整索引](./SKILLS_INDEX.md)** — 所有 skills 的詳細索引（按類別、情境、標籤、難度、來源）
+- **[完整索引](./SKILLS_INDEX.md)** — 詳細目錄（按類別、難度、來源查詢，不含重複場景）
 - **[快速開始](./QUICK_START.md)** — 學習如何使用這個倉庫
 - **[部署指南](./DEPLOYMENT_GUIDE.md)** — 如何在不同專案中使用 skills
 - **[貢獻指南](./CONTRIBUTING.md)** — 了解如何新增或改進 skills

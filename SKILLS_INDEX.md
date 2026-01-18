@@ -5,8 +5,6 @@
 ## 目錄
 
 - [按類別索引](#按類別索引)
-- [按情境索引](#按情境索引)
-- [按標籤索引](#按標籤索引)
 - [按難度索引](#按難度索引)
 - [按來源索引](#按來源索引)
 
@@ -132,9 +130,9 @@
 |-----------|------|------|------|
 | [HuggingFace CLI](./skills/ai-ml-tools/hugging-face-cli/SKILL.md) | HuggingFace Hub 操作（適用：下載/上傳模型、資源管理、雲端運算） | 🟡 Intermediate | HuggingFace |
 
-### ⭐ Custom
+### 🛠️ Agent Tools
 
-> 使用者自定義的 skills
+> Agent 能力擴展與創作工具
 
 | Skill 名稱 | 簡述 | 難度 | 來源 |
 |-----------|------|------|------|
@@ -144,127 +142,13 @@
 | [Web Artifacts Builder](./skills/custom/web-artifacts-builder/SKILL.md) | Web Artifacts 管理（適用：互動式網頁元件） | 🟡 Intermediate | Anthropic |
 | [Slack GIF Creator](./skills/custom/slack-gif-creator/SKILL.md) | Slack GIF 自動化（適用：團隊溝通、趣味分享） | 🟢 Beginner | Anthropic |
 
----
+### 🤝 Collaboration
 
-## 按情境索引
+> 團隊協作與溝通相關的 skills
 
-### 🎯 需要建立網站或落地頁
-- [建立美觀落地頁](./skills/web-development/create-landing-page/SKILL.md) - 產品介紹頁、行銷活動頁、作品集
-- [Frontend Design](./skills/web-development/frontend-design/SKILL.md) - 前端設計與開發
-- [Theme Factory](./skills/web-development/theme-factory/SKILL.md) - 視覺主題系統
-- [UI/UX Pro Max](./skills/web-development/ui-ux-pro-max/SKILL.md) - 全方位設計系統，包含風格、配色、字體
-
-### 🎯 需要撰寫技術文件
-- [撰寫產品需求文件 (PRD)](./skills/documentation/write-prd/SKILL.md) - 新功能開發、需求標準化、跨團隊溝通
-- [撰寫規格文件](./skills/documentation/write-specification/SKILL.md) - PM 視角指引，涵蓋四種規格模式
-- [Doc Coauthoring](./skills/documentation/doc-coauthoring/SKILL.md) - 協作文件撰寫
-
-### 🎯 需要創建 Office 文件
-- [DOCX](./skills/documentation/docx/SKILL.md) - Word 文件
-- [PDF](./skills/documentation/pdf/SKILL.md) - PDF 文件
-- [PPTX](./skills/documentation/pptx/SKILL.md) - PowerPoint 簡報
-- [XLSX](./skills/documentation/xlsx/SKILL.md) - Excel 試算表
-
-### 🎯 需要創建視覺藝術或設計
-- [Canvas Design](./skills/web-development/canvas-design/SKILL.md) - 專業級視覺藝術創作
-- [Algorithmic Art](./skills/custom/algorithmic-art/SKILL.md) - 生成式藝術
-
-### 🎯 需要測試 Web 應用
-- [Webapp Testing](./skills/testing/webapp-testing/SKILL.md) - Playwright 自動化測試
-- [QA Regression](./skills/testing/qa-regression/SKILL.md) - 完整 QA 回歸測試架構與範本
-
-### 🎯 需要企業內部溝通
-- [Internal Comms](./skills/documentation/internal-comms/SKILL.md) - 內部溝通文件
-- [Brand Guidelines](./skills/documentation/brand-guidelines/SKILL.md) - 品牌規範管理
-
-### 🎯 需要開發工具或自動化
-- [MCP Builder](./skills/custom/mcp-builder/SKILL.md) - MCP 伺服器生成
-- [Skill Creator](./skills/custom/skill-creator/SKILL.md) - 創建新 skills
-- [Web Artifacts Builder](./skills/custom/web-artifacts-builder/SKILL.md) - Web artifacts 建構
-
-### 🎯 需要除錯程式碼
-- [程式碼除錯分析](./skills/debugging/code-debugging-analysis/SKILL.md) - 系統化除錯方法論
-
-### 🎯 需要使用 HuggingFace Hub
-- [HuggingFace CLI](./skills/ai-ml-tools/hugging-face-cli/SKILL.md) - 下載/上傳模型、資源管理、雲端運算
-
-### 🎯 需要規劃複雜任務
-- [Create Plan](./skills/productivity/create-plan/SKILL.md) - 將需求轉換為結構化的執行計畫
-
-### 🎯 需要自動化 GitHub 開發流程
-- [Fix failing CI](./skills/devops/gh-fix-ci/SKILL.md) - 自動分析與修復 CI 錯誤
-- [Address PR comments](./skills/devops/gh-address-comments/SKILL.md) - 快速處理 Code Review 意見
-
-### 🎯 需要設計資料庫架構
-- [Database Design](./skills/development/database-design/SKILL.md) - 正規化設計、索引優化與遷移策略
-
-### 🎯 需要提升程式碼品質
-- [Code Documentation](./skills/productivity/code-documentation/SKILL.md) - 撰寫高品質程式碼文件與註解
-- [Ask Questions](./skills/productivity/ask-questions-if-underspecified/SKILL.md) - 主動釐清模糊需求，避免重工
-
----
-
-## 按標籤索引
-
-### #frontend
-- [建立美觀落地頁](./skills/web-development/create-landing-page/SKILL.md)
-- [Frontend Design](./skills/web-development/frontend-design/SKILL.md)
-
-### #design
-- [Canvas Design](./skills/web-development/canvas-design/SKILL.md)
-- [Theme Factory](./skills/web-development/theme-factory/SKILL.md)
-- [Algorithmic Art](./skills/custom/algorithmic-art/SKILL.md)
-- [UI/UX Pro Max](./skills/web-development/ui-ux-pro-max/SKILL.md)
-
-### #documentation
-- [撰寫產品需求文件 (PRD)](./skills/documentation/write-prd/SKILL.md)
-- [撰寫規格文件](./skills/documentation/write-specification/SKILL.md)
-- [DOCX](./skills/documentation/docx/SKILL.md)
-- [PDF](./skills/documentation/pdf/SKILL.md)
-- [PPTX](./skills/documentation/pptx/SKILL.md)
-- [XLSX](./skills/documentation/xlsx/SKILL.md)
-- [Doc Coauthoring](./skills/documentation/doc-coauthoring/SKILL.md)
-
-### #testing
-- [Webapp Testing](./skills/testing/webapp-testing/SKILL.md)
-- [QA Regression](./skills/testing/qa-regression/SKILL.md)
-- [TDD](./skills/testing/test-driven-development/SKILL.md)
-
-### #debugging
-- [Code Debugging Analysis](./skills/debugging/code-debugging-analysis/SKILL.md)
-- [Systematic Debugging](./skills/debugging/systematic-debugging/SKILL.md)
-
-### #design
-- [Brainstorming](./skills/collaboration/brainstorming/SKILL.md)
-
-### #automation
-- [MCP Builder](./skills/custom/mcp-builder/SKILL.md)
-- [Web Artifacts Builder](./skills/custom/web-artifacts-builder/SKILL.md)
-- [Slack GIF Creator](./skills/custom/slack-gif-creator/SKILL.md)
-
-### #enterprise
-- [Brand Guidelines](./skills/documentation/brand-guidelines/SKILL.md)
-- [Internal Comms](./skills/documentation/internal-comms/SKILL.md)
-
-### #creative
-- [Canvas Design](./skills/web-development/canvas-design/SKILL.md)
-- [Algorithmic Art](./skills/custom/algorithmic-art/SKILL.md)
-
-### #debugging
-- [程式碼除錯分析](./skills/debugging/code-debugging-analysis/SKILL.md)
-
-### #ai-ml
-- [HuggingFace CLI](./skills/ai-ml-tools/hugging-face-cli/SKILL.md)
-
-### #productivity
-- [Create Plan](./skills/productivity/create-plan/SKILL.md)
-
-### #devops
-- [Fix failing CI](./skills/devops/gh-fix-ci/SKILL.md)
-- [Address PR comments](./skills/devops/gh-address-comments/SKILL.md)
-
-### #database
-- [Database Design](./skills/development/database-design/SKILL.md)
+| Skill 名稱 | 簡述 | 難度 | 來源 |
+|-----------|------|------|------|
+| [Brainstorming](./skills/collaboration/brainstorming/SKILL.md) | 蘇格拉底式提問引導設計思考 | 🟢 Beginner | Obra Superpowers |
 
 ---
 
@@ -281,6 +165,8 @@
 | [Slack GIF Creator](./skills/custom/slack-gif-creator/SKILL.md) | Custom | 在 Slack 上創建和分享 GIF |
 | [QA Regression](./skills/testing/qa-regression/SKILL.md) | Testing | 完整 QA 回歸測試架構 |
 | [Brainstorming](./skills/collaboration/brainstorming/SKILL.md) | Collaboration | 蘇格拉底式提問引導 |
+| [Ask Questions](./skills/productivity/ask-questions-if-underspecified/SKILL.md) | Productivity | 主動提問釐清需求 |
+| [Code Documentation](./skills/productivity/code-documentation/SKILL.md) | Productivity | 程式碼文件標準化 |
 
 ### 🟡 Intermediate（中級）
 需要一定的背景知識與經驗
@@ -304,6 +190,7 @@
 | [Create Plan](./skills/productivity/create-plan/SKILL.md) | Productivity | 複雜任務規劃與執行計畫生成 |
 | [Fix failing CI](./skills/devops/gh-fix-ci/SKILL.md) | DevOps | 自動分析與修復 CI 錯誤 |
 | [Address PR comments](./skills/devops/gh-address-comments/SKILL.md) | DevOps | 快速處理 PR 評論 |
+| [Code Debugging Analysis](./skills/debugging/code-debugging-analysis/SKILL.md) | Debugging | 系統化除錯方法論 |
 
 ### 🔴 Advanced（進階）
 適合有豐富經驗的使用者
@@ -313,7 +200,9 @@
 | [Canvas Design](./skills/web-development/canvas-design/SKILL.md) | Web Development | 使用設計哲學創建專業級視覺藝術 |
 | [Algorithmic Art](./skills/custom/algorithmic-art/SKILL.md) | Custom | 創建生成式與演算法藝術 |
 | [MCP Builder](./skills/custom/mcp-builder/SKILL.md) | Custom | 自動生成 MCP 伺服器 |
-| [程式碼除錯分析](./skills/debugging/code-debugging-analysis/SKILL.md) | Debugging | 系統化除錯方法論 |
+| [Database Design](./skills/development/database-design/SKILL.md) | Database | 資料庫設計與優化策略 |
+| [TDD](./skills/testing/test-driven-development/SKILL.md) | Testing | 測試驅動開發 |
+| [Systematic Debugging](./skills/debugging/systematic-debugging/SKILL.md) | Debugging | 四階段根本原因分析 |
 
 ---
 
