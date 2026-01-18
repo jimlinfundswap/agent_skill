@@ -68,7 +68,7 @@ Agent Skill 是一套結構化的指令、範例與最佳實踐，用於擴展 A
    - 🟡 **Intermediate** — 需要一定背景知識
    - 🔴 **Advanced** — 適合進階使用者
 4. **瀏覽範例**：參考 `examples/` 資料夾中的實際案例
-5. **需要更多選擇？**→ 前往 [完整索引](./SKILLS_INDEX.md) 查看所有 22 個 skills
+5. **需要更多選擇？**→ 前往 [完整索引](./SKILLS_INDEX.md) 查看所有 25 個 skills
 
 ## 🚀 快速開始
 
