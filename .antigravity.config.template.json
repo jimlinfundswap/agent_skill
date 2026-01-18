@@ -1,0 +1,8 @@
+{
+  "skills": {
+    "paths": [
+      ".agent/skills",
+      "${AGENT_SKILLS_PATH}/skills"
+    ]
+  }
+}

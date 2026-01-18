@@ -20,11 +20,11 @@
 
 | Skill 名稱 | 簡述 | 難度 | 來源 |
 |-----------|------|------|------|
-| [建立美觀落地頁](./skills/web-development/create-landing-page/SKILL.md) | 快速建立專業級的響應式落地頁 | 🟢 Beginner | Custom |
-| [Canvas Design](./skills/web-development/canvas-design/SKILL.md) | 使用設計哲學創建美麗的視覺藝術 | 🔴 Advanced | Anthropic |
-| [Frontend Design](./skills/web-development/frontend-design/SKILL.md) | 前端設計與開發 | 🟡 Intermediate | Anthropic |
-| [Theme Factory](./skills/web-development/theme-factory/SKILL.md) | 創建一致的視覺主題系統 | 🟡 Intermediate | Anthropic |
-| [UI/UX Pro Max](./skills/web-development/ui-ux-pro-max/SKILL.md) | 全方位 UI/UX 設計智能系統，包含 57 種風格、95 個色彩方案、56 個字體配對 | 🟡 Intermediate | Other |
+| [建立美觀落地頁](./skills/web-development/create-landing-page/SKILL.md) | 快速建立完整網站落地頁（適用：行銷頁面、產品介紹） | 🟢 Beginner | Custom |
+| [Canvas Design](./skills/web-development/canvas-design/SKILL.md) | 創作視覺藝術作品（適用：海報、藝術設計、PDF/PNG 輸出） | 🔴 Advanced | Anthropic |
+| [Frontend Design](./skills/web-development/frontend-design/SKILL.md) | 前端介面開發（適用：完整網頁應用程式） | 🟡 Intermediate | Anthropic |
+| [Theme Factory](./skills/web-development/theme-factory/SKILL.md) | 建立品牌視覺規範（適用：設計系統、品牌指南） | 🟡 Intermediate | Anthropic |
+| [UI/UX Pro Max](./skills/web-development/ui-ux-pro-max/SKILL.md) | 網站/應用介面設計（適用：Dashboard、SaaS、電商等互動介面） | 🟡 Intermediate | Other |
 
 ### 📝 Documentation
 
@@ -32,15 +32,15 @@
 
 | Skill 名稱 | 簡述 | 難度 | 來源 |
 |-----------|------|------|------|
-| [撰寫產品需求文件 (PRD)](./skills/documentation/write-prd/SKILL.md) | 撰寫結構完整的商業導向 PRD | 🟡 Intermediate | Custom |
-| [撰寫規格文件](./skills/documentation/write-specification/SKILL.md) | PM 視角的規格撰寫完整指南，涵蓋四種規格模式 | 🟡 Intermediate | Custom |
-| [DOCX](./skills/documentation/docx/SKILL.md) | 創建和編輯 Microsoft Word 文件 | 🟡 Intermediate | Anthropic |
-| [PDF](./skills/documentation/pdf/SKILL.md) | PDF 生成與操作 | 🟡 Intermediate | Anthropic |
-| [PPTX](./skills/documentation/pptx/SKILL.md) | 創建和編輯 PowerPoint 簡報 | 🟡 Intermediate | Anthropic |
-| [XLSX](./skills/documentation/xlsx/SKILL.md) | 創建和管理 Excel 試算表 | 🟡 Intermediate | Anthropic |
-| [Brand Guidelines](./skills/documentation/brand-guidelines/SKILL.md) | 確保內容符合品牌規範 | 🟢 Beginner | Anthropic |
-| [Doc Coauthoring](./skills/documentation/doc-coauthoring/SKILL.md) | 協作文件撰寫與編輯 | 🟡 Intermediate | Anthropic |
-| [Internal Comms](./skills/documentation/internal-comms/SKILL.md) | 管理和起草內部公司溝通 | 🟢 Beginner | Anthropic |
+| [撰寫產品需求文件 (PRD)](./skills/documentation/write-prd/SKILL.md) | 商業導向的產品需求文件（適用：新功能規劃、產品設計） | 🟡 Intermediate | Custom |
+| [撰寫規格文件](./skills/documentation/write-specification/SKILL.md) | PM 視角規格撰寫（適用：流程型、規則型、狀態型、報表型規格） | 🟡 Intermediate | Custom |
+| [DOCX](./skills/documentation/docx/SKILL.md) | 生成 Word 文件（適用：合約、報告、文書處理） | 🟡 Intermediate | Anthropic |
+| [PDF](./skills/documentation/pdf/SKILL.md) | 生成 PDF 文件（適用：正式文件、報表輸出） | 🟡 Intermediate | Anthropic |
+| [PPTX](./skills/documentation/pptx/SKILL.md) | 生成 PowerPoint 簡報（適用：提案、報告、展示） | 🟡 Intermediate | Anthropic |
+| [XLSX](./skills/documentation/xlsx/SKILL.md) | 生成 Excel 試算表（適用：數據分析、報表） | 🟡 Intermediate | Anthropic |
+| [Brand Guidelines](./skills/documentation/brand-guidelines/SKILL.md) | 品牌規範檢查（適用：確保內容符合品牌標準） | 🟢 Beginner | Anthropic |
+| [Doc Coauthoring](./skills/documentation/doc-coauthoring/SKILL.md) | 協作文件撰寫（適用：團隊共同編輯文件） | 🟡 Intermediate | Anthropic |
+| [Internal Comms](./skills/documentation/internal-comms/SKILL.md) | 內部溝通文件（適用：公司公告、內部信件） | 🟢 Beginner | Anthropic |
 
 ### 🧪 Testing
 
@@ -96,7 +96,7 @@
 
 | Skill 名稱 | 簡述 | 難度 | 來源 |
 |-----------|------|------|------|
-| [程式碼除錯分析](./skills/debugging/code-debugging-analysis/SKILL.md) | 系統化除錯方法論，包含七階段流程與結構化分析 | 🔴 Advanced | Other |
+| [程式碼除錯分析](./skills/debugging/code-debugging-analysis/SKILL.md) | 系統化除錯流程（適用：Runtime 錯誤、邏輯錯誤、整合問題） | 🔴 Advanced | Other |
 
 ### ⭐ Custom
 
@@ -104,11 +104,11 @@
 
 | Skill 名稱 | 簡述 | 難度 | 來源 |
 |-----------|------|------|------|
-| [Algorithmic Art](./skills/custom/algorithmic-art/SKILL.md) | 創建生成式與演算法藝術 | 🔴 Advanced | Anthropic |
-| [MCP Builder](./skills/custom/mcp-builder/SKILL.md) | 自動生成 Model Context Protocol 伺服器 | 🔴 Advanced | Anthropic |
-| [Skill Creator](./skills/custom/skill-creator/SKILL.md) | Meta-skill，幫助用戶創建新的 skills | 🟡 Intermediate | Anthropic |
-| [Web Artifacts Builder](./skills/custom/web-artifacts-builder/SKILL.md) | 建構和管理 web-based artifacts | 🟡 Intermediate | Anthropic |
-| [Slack GIF Creator](./skills/custom/slack-gif-creator/SKILL.md) | 在 Slack 上創建和分享 GIF 的自動化工具 | 🟢 Beginner | Anthropic |
+| [Algorithmic Art](./skills/custom/algorithmic-art/SKILL.md) | 程式生成藝術（適用：演算法藝術、動態視覺） | 🔴 Advanced | Anthropic |
+| [MCP Builder](./skills/custom/mcp-builder/SKILL.md) | 建立 MCP 伺服器（適用：擴展 AI 工具能力） | 🔴 Advanced | Anthropic |
+| [Skill Creator](./skills/custom/skill-creator/SKILL.md) | 創建新 Skills（適用：自定義 AI 助理能力） | 🟡 Intermediate | Anthropic |
+| [Web Artifacts Builder](./skills/custom/web-artifacts-builder/SKILL.md) | Web Artifacts 管理（適用：互動式網頁元件） | 🟡 Intermediate | Anthropic |
+| [Slack GIF Creator](./skills/custom/slack-gif-creator/SKILL.md) | Slack GIF 自動化（適用：團隊溝通、趣味分享） | 🟢 Beginner | Anthropic |
 
 ---
 
