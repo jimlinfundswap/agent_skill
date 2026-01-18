@@ -18,11 +18,11 @@
 
 | Skill 名稱 | 簡述 | 難度 | 來源 |
 |-----------|------|------|------|
-| [建立美觀落地頁](./skills/web-development/create-landing-page/SKILL.md) | 快速建立完整網站落地頁（適用：行銷頁面、產品介紹） | 🟢 Beginner | Custom |
-| [Canvas Design](./skills/web-development/canvas-design/SKILL.md) | 創作視覺藝術作品（適用：海報、藝術設計、PDF/PNG 輸出） | 🔴 Advanced | Anthropic |
-| [Frontend Design](./skills/web-development/frontend-design/SKILL.md) | 前端介面開發（適用：完整網頁應用程式） | 🟡 Intermediate | Anthropic |
-| [Theme Factory](./skills/web-development/theme-factory/SKILL.md) | 建立品牌視覺規範（適用：設計系統、品牌指南） | 🟡 Intermediate | Anthropic |
-| [UI/UX Pro Max](./skills/web-development/ui-ux-pro-max/SKILL.md) | 網站/應用介面設計（適用：Dashboard、SaaS、電商等互動介面） | 🟡 Intermediate | Other |
+| [建立美觀落地頁](./skills/web-development/create-landing-page/SKILL.md) | 快速建立專業級的響應式落地頁 | 🟢 Beginner | Custom |
+| [Canvas Design](./skills/web-development/canvas-design/SKILL.md) | 使用程式碼創作高品質視覺藝術的海報或圖表 | 🔴 Advanced | Anthropic |
+| [Frontend Design](./skills/web-development/frontend-design/SKILL.md) | 開發互動式網頁前端介面 | 🟡 Intermediate | Anthropic |
+| [Theme Factory](./skills/web-development/theme-factory/SKILL.md) | 建立一致的網頁色彩、字體與視覺規範 | 🟡 Intermediate | Anthropic |
+| [UI/UX Pro Max](./skills/web-development/ui-ux-pro-max/SKILL.md) | 設計儀表板、SaaS 或電商的現代化介面 | 🟡 Intermediate | Other |
 
 ### 📝 Documentation
 
@@ -30,15 +30,15 @@
 
 | Skill 名稱 | 簡述 | 難度 | 來源 |
 |-----------|------|------|------|
-| [撰寫產品需求文件 (PRD)](./skills/documentation/write-prd/SKILL.md) | 商業導向的產品需求文件（適用：新功能規劃、產品設計） | 🟡 Intermediate | Custom |
-| [撰寫規格文件](./skills/documentation/write-specification/SKILL.md) | PM 視角規格撰寫（適用：流程型、規則型、狀態型、報表型規格） | 🟡 Intermediate | Custom |
-| [DOCX](./skills/documentation/docx/SKILL.md) | 生成 Word 文件（適用：合約、報告、文書處理） | 🟡 Intermediate | Anthropic |
-| [PDF](./skills/documentation/pdf/SKILL.md) | 生成 PDF 文件（適用：正式文件、報表輸出） | 🟡 Intermediate | Anthropic |
-| [PPTX](./skills/documentation/pptx/SKILL.md) | 生成 PowerPoint 簡報（適用：提案、報告、展示） | 🟡 Intermediate | Anthropic |
-| [XLSX](./skills/documentation/xlsx/SKILL.md) | 生成 Excel 試算表（適用：數據分析、報表） | 🟡 Intermediate | Anthropic |
-| [Brand Guidelines](./skills/documentation/brand-guidelines/SKILL.md) | 品牌規範檢查（適用：確保內容符合品牌標準） | 🟢 Beginner | Anthropic |
-| [Doc Coauthoring](./skills/documentation/doc-coauthoring/SKILL.md) | 協作文件撰寫（適用：團隊共同編輯文件） | 🟡 Intermediate | Anthropic |
-| [Internal Comms](./skills/documentation/internal-comms/SKILL.md) | 內部溝通文件（適用：公司公告、內部信件） | 🟢 Beginner | Anthropic |
+| [撰寫產品需求文件 (PRD)](./skills/documentation/write-prd/SKILL.md) | 撰寫結構完整的商業導向 PRD | 🟡 Intermediate | Custom |
+| [撰寫規格文件](./skills/documentation/write-specification/SKILL.md) | 以 PM 角度撰寫清楚的功能規格書 | 🟡 Intermediate | Custom |
+| [DOCX](./skills/documentation/docx/SKILL.md) | 生成合約、報告等 Word 文件 | 🟡 Intermediate | Anthropic |
+| [PDF](./skills/documentation/pdf/SKILL.md) | 生成正式 PDF 文件或報表 | 🟡 Intermediate | Anthropic |
+| [PPTX](./skills/documentation/pptx/SKILL.md) | 生成提案或報告用的 PowerPoint 簡報 | 🟡 Intermediate | Anthropic |
+| [XLSX](./skills/documentation/xlsx/SKILL.md) | 生成數據分析或報表用的 Excel 試算表 | 🟡 Intermediate | Anthropic |
+| [Brand Guidelines](./skills/documentation/brand-guidelines/SKILL.md) | 檢查內容是否符合品牌語氣與規範 | 🟢 Beginner | Anthropic |
+| [Doc Coauthoring](./skills/documentation/doc-coauthoring/SKILL.md) | 與您協作編輯同一份文件 | 🟡 Intermediate | Anthropic |
+| [Internal Comms](./skills/documentation/internal-comms/SKILL.md) | 撰寫公司內部公告或信件 | 🟢 Beginner | Anthropic |
 
 ### ⚡ Productivity
 
@@ -46,9 +46,9 @@
 
 | Skill 名稱 | 簡述 | 難度 | 來源 |
 |-----------|------|------|------|
-| [Create Plan](./skills/productivity/create-plan/SKILL.md) | 複雜任務規劃（適用：將需求轉換為結構化執行計畫） | 🟡 Intermediate | OpenAI |
-| [Ask Questions](./skills/productivity/ask-questions-if-underspecified/SKILL.md) | 主動釐清需求（適用：當需求模糊時主動提問） | 🟢 Beginner | Skill Creator AI |
-| [Code Documentation](./skills/productivity/code-documentation/SKILL.md) | 程式碼文件撰寫（適用：API 文件、README、註解） | 🟢 Beginner | Skill Creator AI |
+| [Create Plan](./skills/productivity/create-plan/SKILL.md) | 將複雜需求拆解為可執行的步驟清單 | 🟡 Intermediate | OpenAI |
+| [Ask Questions](./skills/productivity/ask-questions-if-underspecified/SKILL.md) | 當需求不清楚時，主動向您提問確認 | 🟢 Beginner | Skill Creator AI |
+| [Code Documentation](./skills/productivity/code-documentation/SKILL.md) | 為程式碼撰寫標準化的文件與註解 | 🟢 Beginner | Skill Creator AI |
 
 ### 🧪 Testing
 
@@ -56,9 +56,9 @@
 
 | Skill 名稱 | 簡述 | 難度 | 來源 |
 |-----------|------|------|------|
-| [Webapp Testing](./skills/testing/webapp-testing/SKILL.md) | 使用 Playwright 測試本地 web 應用程式 | 🟡 Intermediate | Anthropic |
-| [QA Regression](./skills/testing/qa-regression/SKILL.md) | 完整 QA 回歸測試架構（適用：建立標準化測試套件） | 🟢 Beginner | Skill Creator AI |
-| [TDD](./skills/testing/test-driven-development/SKILL.md) | 測試驅動開發 (Red-Green-Refactor) | 🔴 Advanced | Obra Superpowers |
+| [Webapp Testing](./skills/testing/webapp-testing/SKILL.md) | 使用 Playwright 自動化測試網頁 | 🟡 Intermediate | Anthropic |
+| [QA Regression](./skills/testing/qa-regression/SKILL.md) | 建立標準化的 QA 回歸測試架構 | 🟢 Beginner | Skill Creator AI |
+| [TDD](./skills/testing/test-driven-development/SKILL.md) | 先寫測試再寫程式，確保程式碼邏輯正確 | 🔴 Advanced | Obra Superpowers |
 
 ### 🚀 Deployment
 
@@ -66,8 +66,8 @@
 
 | Skill 名稱 | 簡述 | 難度 | 來源 |
 |-----------|------|------|------|
-| [HuggingFace CLI](./skills/ai-ml-tools/hugging-face-cli/SKILL.md) | HuggingFace 部署與資源管理 | 🟡 Intermediate | HuggingFace |
-| [Fix failing CI](./skills/devops/gh-fix-ci/SKILL.md) | 自動修復 GitHub CI/CD 流程 | 🟡 Intermediate | OpenAI |
+| [HuggingFace CLI](./skills/ai-ml-tools/hugging-face-cli/SKILL.md) | 下載/上傳 AI 模型與資料集 | 🟡 Intermediate | HuggingFace |
+| [Fix failing CI](./skills/devops/gh-fix-ci/SKILL.md) | 自動分析並修復 GitHub CI 錯誤 | 🟡 Intermediate | OpenAI |
 
 ### ♾️ DevOps
 
@@ -75,8 +75,8 @@
 
 | Skill 名稱 | 簡述 | 難度 | 來源 |
 |-----------|------|------|------|
-| [Fix failing CI](./skills/devops/gh-fix-ci/SKILL.md) | 自動修復 CI 錯誤（適用：GitHub Actions 除錯與修復） | 🟡 Intermediate | OpenAI |
-| [Address PR comments](./skills/devops/gh-address-comments/SKILL.md) | 處理 PR 評論（適用：GitHub PR Code Review 協作） | 🟡 Intermediate | OpenAI |
+| [Fix failing CI](./skills/devops/gh-fix-ci/SKILL.md) | 自動分析並修復 GitHub CI 錯誤 | 🟡 Intermediate | OpenAI |
+| [Address PR comments](./skills/devops/gh-address-comments/SKILL.md) | 快速處理 GitHub PR 的審查意見 | 🟡 Intermediate | OpenAI |
 
 ### 💾 Database
 
@@ -84,7 +84,7 @@
 
 | Skill 名稱 | 簡述 | 難度 | 來源 |
 |-----------|------|------|------|
-| [Database Design](./skills/development/database-design/SKILL.md) | 資料庫設計與優化（適用：Schema 設計、索引優化、遷移） | 🔴 Advanced | Skill Creator AI |
+| [Database Design](./skills/development/database-design/SKILL.md) | 設計正規化的資料庫與優化查詢效能 | 🔴 Advanced | Skill Creator AI |
 
 ### 🔌 API Integration
 
@@ -92,8 +92,8 @@
 
 | Skill 名稱 | 簡述 | 難度 | 來源 |
 |-----------|------|------|------|
-| [Code Documentation](./skills/productivity/code-documentation/SKILL.md) | API 文件撰寫規範 (Swagger/OpenAPI) | 🟢 Beginner | Skill Creator AI |
-| [HuggingFace CLI](./skills/ai-ml-tools/hugging-face-cli/SKILL.md) | 使用 API 操作 HuggingFace Hub | 🟡 Intermediate | HuggingFace |
+| [Code Documentation](./skills/productivity/code-documentation/SKILL.md) | 撰寫標準的 API 規格文件 (Swagger) | 🟢 Beginner | Skill Creator AI |
+| [HuggingFace CLI](./skills/ai-ml-tools/hugging-face-cli/SKILL.md) | 下載/上傳 AI 模型與資料集 | 🟡 Intermediate | HuggingFace |
 
 ### 👁️ Code Review
 
@@ -101,7 +101,7 @@
 
 | Skill 名稱 | 簡述 | 難度 | 來源 |
 |-----------|------|------|------|
-| [Address PR comments](./skills/devops/gh-address-comments/SKILL.md) | 處理 GitHub PR 評論與審查意見 | 🟡 Intermediate | OpenAI |
+| [Address PR comments](./skills/devops/gh-address-comments/SKILL.md) | 快速處理 GitHub PR 的審查意見 | 🟡 Intermediate | OpenAI |
 
 ### 🔧 Refactoring
 
@@ -119,8 +119,8 @@
 
 | Skill 名稱 | 簡述 | 難度 | 來源 |
 |-----------|------|------|------|
-| [Code Debugging Analysis](./skills/debugging/code-debugging-analysis/SKILL.md) | 系統化除錯方法論與分析 | 🟡 Intermediate | Custom |
-| [Systematic Debugging](./skills/debugging/systematic-debugging/SKILL.md) | 嚴格的四階段根本原因分析法 | 🔴 Advanced | Obra Superpowers |
+| [Code Debugging Analysis](./skills/debugging/code-debugging-analysis/SKILL.md) | 使用系統化方法分析並解決程式錯誤 | 🟡 Intermediate | Custom |
+| [Systematic Debugging](./skills/debugging/systematic-debugging/SKILL.md) | 透過四階段分析找出 Bug 的根本原因 | 🔴 Advanced | Obra Superpowers |
 
 ### 🤖 AI/ML Tools
 
@@ -128,7 +128,7 @@
 
 | Skill 名稱 | 簡述 | 難度 | 來源 |
 |-----------|------|------|------|
-| [HuggingFace CLI](./skills/ai-ml-tools/hugging-face-cli/SKILL.md) | HuggingFace Hub 操作（適用：下載/上傳模型、資源管理、雲端運算） | 🟡 Intermediate | HuggingFace |
+| [HuggingFace CLI](./skills/ai-ml-tools/hugging-face-cli/SKILL.md) | 下載/上傳 AI 模型與資料集 | 🟡 Intermediate | HuggingFace |
 
 ### 🛠️ Agent Tools
 
@@ -136,11 +136,11 @@
 
 | Skill 名稱 | 簡述 | 難度 | 來源 |
 |-----------|------|------|------|
-| [Algorithmic Art](./skills/custom/algorithmic-art/SKILL.md) | 程式生成藝術（適用：演算法藝術、動態視覺） | 🔴 Advanced | Anthropic |
-| [MCP Builder](./skills/custom/mcp-builder/SKILL.md) | 建立 MCP 伺服器（適用：擴展 AI 工具能力） | 🔴 Advanced | Anthropic |
-| [Skill Creator](./skills/custom/skill-creator/SKILL.md) | 創建新 Skills（適用：自定義 AI 助理能力） | 🟡 Intermediate | Anthropic |
-| [Web Artifacts Builder](./skills/custom/web-artifacts-builder/SKILL.md) | Web Artifacts 管理（適用：互動式網頁元件） | 🟡 Intermediate | Anthropic |
-| [Slack GIF Creator](./skills/custom/slack-gif-creator/SKILL.md) | Slack GIF 自動化（適用：團隊溝通、趣味分享） | 🟢 Beginner | Anthropic |
+| [Algorithmic Art](./skills/custom/algorithmic-art/SKILL.md) | 使用程式碼繪製幾何圖形與動態視覺 | 🔴 Advanced | Anthropic |
+| [MCP Builder](./skills/custom/mcp-builder/SKILL.md) | 將現有 API 包裝成 AI 可用的 MCP 工具 | 🔴 Advanced | Anthropic |
+| [Skill Creator](./skills/custom/skill-creator/SKILL.md) | 創建新的 SKILL.md 讓 AI 學會新能力 | 🟡 Intermediate | Anthropic |
+| [Web Artifacts Builder](./skills/custom/web-artifacts-builder/SKILL.md) | 建立與管理互動式網頁元件 | 🟡 Intermediate | Anthropic |
+| [Slack GIF Creator](./skills/custom/slack-gif-creator/SKILL.md) | 自動生成適合 Slack 溝通的 GIF 動畫 | 🟢 Beginner | Anthropic |
 
 ### 🤝 Collaboration
 
@@ -148,7 +148,7 @@
 
 | Skill 名稱 | 簡述 | 難度 | 來源 |
 |-----------|------|------|------|
-| [Brainstorming](./skills/collaboration/brainstorming/SKILL.md) | 蘇格拉底式提問引導設計思考 | 🟢 Beginner | Obra Superpowers |
+| [Brainstorming](./skills/collaboration/brainstorming/SKILL.md) | 透過對話引導，將模糊想法轉化為具體架構 | 🟢 Beginner | Obra Superpowers |
 
 ---
 
@@ -160,13 +160,13 @@
 | Skill 名稱 | 類別 | 簡述 |
 |-----------|------|------|
 | [建立美觀落地頁](./skills/web-development/create-landing-page/SKILL.md) | Web Development | 快速建立專業級的響應式落地頁 |
-| [Brand Guidelines](./skills/documentation/brand-guidelines/SKILL.md) | Documentation | 確保內容符合品牌規範 |
-| [Internal Comms](./skills/documentation/internal-comms/SKILL.md) | Documentation | 管理和起草內部公司溝通 |
-| [Slack GIF Creator](./skills/custom/slack-gif-creator/SKILL.md) | Custom | 在 Slack 上創建和分享 GIF |
-| [QA Regression](./skills/testing/qa-regression/SKILL.md) | Testing | 完整 QA 回歸測試架構 |
-| [Brainstorming](./skills/collaboration/brainstorming/SKILL.md) | Collaboration | 蘇格拉底式提問引導 |
-| [Ask Questions](./skills/productivity/ask-questions-if-underspecified/SKILL.md) | Productivity | 主動提問釐清需求 |
-| [Code Documentation](./skills/productivity/code-documentation/SKILL.md) | Productivity | 程式碼文件標準化 |
+| [Brand Guidelines](./skills/documentation/brand-guidelines/SKILL.md) | Documentation | 檢查內容是否符合品牌語氣與規範 |
+| [Internal Comms](./skills/documentation/internal-comms/SKILL.md) | Documentation | 撰寫公司內部公告或信件 |
+| [Slack GIF Creator](./skills/custom/slack-gif-creator/SKILL.md) | Custom | 自動生成適合 Slack 溝通的 GIF 動畫 |
+| [QA Regression](./skills/testing/qa-regression/SKILL.md) | Testing | 建立標準化的 QA 回歸測試架構 |
+| [Brainstorming](./skills/collaboration/brainstorming/SKILL.md) | Collaboration | 透過對話引導，將模糊想法轉化為具體架構 |
+| [Ask Questions](./skills/productivity/ask-questions-if-underspecified/SKILL.md) | Productivity | 當需求不清楚時，主動向您提問確認 |
+| [Code Documentation](./skills/productivity/code-documentation/SKILL.md) | Productivity | 為程式碼撰寫標準化的文件與註解 |
 
 ### 🟡 Intermediate（中級）
 需要一定的背景知識與經驗
@@ -174,35 +174,35 @@
 | Skill 名稱 | 類別 | 簡述 |
 |-----------|------|------|
 | [撰寫產品需求文件 (PRD)](./skills/documentation/write-prd/SKILL.md) | Documentation | 撰寫結構完整的商業導向 PRD |
-| [撰寫規格文件](./skills/documentation/write-specification/SKILL.md) | Documentation | PM 視角規格撰寫指引 |
-| [Frontend Design](./skills/web-development/frontend-design/SKILL.md) | Web Development | 前端設計與開發 |
-| [Theme Factory](./skills/web-development/theme-factory/SKILL.md) | Web Development | 創建一致的視覺主題系統 |
-| [UI/UX Pro Max](./skills/web-development/ui-ux-pro-max/SKILL.md) | Web Development | 全方位 UI/UX 設計系統 |
-| [DOCX](./skills/documentation/docx/SKILL.md) | Documentation | 創建和編輯 Word 文件 |
-| [PDF](./skills/documentation/pdf/SKILL.md) | Documentation | PDF 生成與操作 |
-| [PPTX](./skills/documentation/pptx/SKILL.md) | Documentation | 創建和編輯 PowerPoint 簡報 |
-| [XLSX](./skills/documentation/xlsx/SKILL.md) | Documentation | 創建和管理 Excel 試算表 |
-| [Doc Coauthoring](./skills/documentation/doc-coauthoring/SKILL.md) | Documentation | 協作文件撰寫與編輯 |
-| [Webapp Testing](./skills/testing/webapp-testing/SKILL.md) | Testing | 使用 Playwright 測試 web 應用 |
-| [Skill Creator](./skills/custom/skill-creator/SKILL.md) | Custom | 幫助用戶創建新的 skills |
-| [Web Artifacts Builder](./skills/custom/web-artifacts-builder/SKILL.md) | Custom | 建構和管理 web artifacts |
-| [HuggingFace CLI](./skills/ai-ml-tools/hugging-face-cli/SKILL.md) | AI/ML Tools | HuggingFace Hub 操作與管理 |
-| [Create Plan](./skills/productivity/create-plan/SKILL.md) | Productivity | 複雜任務規劃與執行計畫生成 |
-| [Fix failing CI](./skills/devops/gh-fix-ci/SKILL.md) | DevOps | 自動分析與修復 CI 錯誤 |
-| [Address PR comments](./skills/devops/gh-address-comments/SKILL.md) | DevOps | 快速處理 PR 評論 |
-| [Code Debugging Analysis](./skills/debugging/code-debugging-analysis/SKILL.md) | Debugging | 系統化除錯方法論 |
+| [撰寫規格文件](./skills/documentation/write-specification/SKILL.md) | Documentation | 以 PM 角度撰寫清楚的功能規格書 |
+| [Frontend Design](./skills/web-development/frontend-design/SKILL.md) | Web Development | 開發互動式網頁前端介面 |
+| [Theme Factory](./skills/web-development/theme-factory/SKILL.md) | Web Development | 建立一致的網頁色彩、字體與視覺規範 |
+| [UI/UX Pro Max](./skills/web-development/ui-ux-pro-max/SKILL.md) | Web Development | 設計儀表板、SaaS 或電商的現代化介面 |
+| [DOCX](./skills/documentation/docx/SKILL.md) | Documentation | 生成合約、報告等 Word 文件 |
+| [PDF](./skills/documentation/pdf/SKILL.md) | Documentation | 生成正式 PDF 文件或報表 |
+| [PPTX](./skills/documentation/pptx/SKILL.md) | Documentation | 生成提案或報告用的 PowerPoint 簡報 |
+| [XLSX](./skills/documentation/xlsx/SKILL.md) | Documentation | 生成數據分析或報表用的 Excel 試算表 |
+| [Doc Coauthoring](./skills/documentation/doc-coauthoring/SKILL.md) | Documentation | 與您協作編輯同一份文件 |
+| [Webapp Testing](./skills/testing/webapp-testing/SKILL.md) | Testing | 使用 Playwright 自動化測試網頁 |
+| [Skill Creator](./skills/custom/skill-creator/SKILL.md) | Custom | 創建新的 SKILL.md 讓 AI 學會新能力 |
+| [Web Artifacts Builder](./skills/custom/web-artifacts-builder/SKILL.md) | Custom | 建立與管理互動式網頁元件 |
+| [HuggingFace CLI](./skills/ai-ml-tools/hugging-face-cli/SKILL.md) | AI/ML Tools | 下載/上傳 AI 模型與資料集 |
+| [Create Plan](./skills/productivity/create-plan/SKILL.md) | Productivity | 將複雜需求拆解為可執行的步驟清單 |
+| [Fix failing CI](./skills/devops/gh-fix-ci/SKILL.md) | DevOps | 自動分析並修復 GitHub CI 錯誤 |
+| [Address PR comments](./skills/devops/gh-address-comments/SKILL.md) | DevOps | 快速處理 GitHub PR 的審查意見 |
+| [Code Debugging Analysis](./skills/debugging/code-debugging-analysis/SKILL.md) | Debugging | 使用系統化方法分析並解決程式錯誤 |
 
 ### 🔴 Advanced（進階）
 適合有豐富經驗的使用者
 
 | Skill 名稱 | 類別 | 簡述 |
 |-----------|------|------|
-| [Canvas Design](./skills/web-development/canvas-design/SKILL.md) | Web Development | 使用設計哲學創建專業級視覺藝術 |
-| [Algorithmic Art](./skills/custom/algorithmic-art/SKILL.md) | Custom | 創建生成式與演算法藝術 |
-| [MCP Builder](./skills/custom/mcp-builder/SKILL.md) | Custom | 自動生成 MCP 伺服器 |
-| [Database Design](./skills/development/database-design/SKILL.md) | Database | 資料庫設計與優化策略 |
-| [TDD](./skills/testing/test-driven-development/SKILL.md) | Testing | 測試驅動開發 |
-| [Systematic Debugging](./skills/debugging/systematic-debugging/SKILL.md) | Debugging | 四階段根本原因分析 |
+| [Canvas Design](./skills/web-development/canvas-design/SKILL.md) | Web Development | 使用程式碼創作高品質視覺藝術的海報或圖表 |
+| [Algorithmic Art](./skills/custom/algorithmic-art/SKILL.md) | Custom | 使用程式碼繪製幾何圖形與動態視覺 |
+| [MCP Builder](./skills/custom/mcp-builder/SKILL.md) | Custom | 將現有 API 包裝成 AI 可用的 MCP 工具 |
+| [Database Design](./skills/development/database-design/SKILL.md) | Database | 設計正規化的資料庫與優化查詢效能 |
+| [TDD](./skills/testing/test-driven-development/SKILL.md) | Testing | 先寫測試再寫程式，確保程式碼邏輯正確 |
+| [Systematic Debugging](./skills/debugging/systematic-debugging/SKILL.md) | Debugging | 透過四階段分析找出 Bug 的根本原因 |
 
 ---
 
@@ -213,50 +213,50 @@
 
 | Skill 名稱 | 類別 | 簡述 |
 |-----------|------|------|
-| [Canvas Design](./skills/web-development/canvas-design/SKILL.md) | Web Development | 使用設計哲學創建美麗的視覺藝術 |
-| [Frontend Design](./skills/web-development/frontend-design/SKILL.md) | Web Development | 前端設計與開發 |
-| [Theme Factory](./skills/web-development/theme-factory/SKILL.md) | Web Development | 創建一致的視覺主題系統 |
-| [DOCX](./skills/documentation/docx/SKILL.md) | Documentation | 創建和編輯 Word 文件 |
-| [PDF](./skills/documentation/pdf/SKILL.md) | Documentation | PDF 生成與操作 |
-| [PPTX](./skills/documentation/pptx/SKILL.md) | Documentation | 創建和編輯 PowerPoint 簡報 |
-| [XLSX](./skills/documentation/xlsx/SKILL.md) | Documentation | 創建和管理 Excel 試算表 |
-| [Brand Guidelines](./skills/documentation/brand-guidelines/SKILL.md) | Documentation | 確保內容符合品牌規範 |
-| [Doc Coauthoring](./skills/documentation/doc-coauthoring/SKILL.md) | Documentation | 協作文件撰寫與編輯 |
-| [Internal Comms](./skills/documentation/internal-comms/SKILL.md) | Documentation | 管理和起草內部公司溝通 |
-| [Webapp Testing](./skills/testing/webapp-testing/SKILL.md) | Testing | 使用 Playwright 測試 web 應用 |
-| [Algorithmic Art](./skills/custom/algorithmic-art/SKILL.md) | Custom | 創建生成式與演算法藝術 |
-| [MCP Builder](./skills/custom/mcp-builder/SKILL.md) | Custom | 自動生成 MCP 伺服器 |
-| [Skill Creator](./skills/custom/skill-creator/SKILL.md) | Custom | 幫助用戶創建新的 skills |
-| [Web Artifacts Builder](./skills/custom/web-artifacts-builder/SKILL.md) | Custom | 建構和管理 web artifacts |
-| [Slack GIF Creator](./skills/custom/slack-gif-creator/SKILL.md) | Custom | Slack GIF 創建工具 |
+| [Canvas Design](./skills/web-development/canvas-design/SKILL.md) | Web Development | 使用程式碼創作高品質視覺藝術的海報或圖表 |
+| [Frontend Design](./skills/web-development/frontend-design/SKILL.md) | Web Development | 開發互動式網頁前端介面 |
+| [Theme Factory](./skills/web-development/theme-factory/SKILL.md) | Web Development | 建立一致的網頁色彩、字體與視覺規範 |
+| [DOCX](./skills/documentation/docx/SKILL.md) | Documentation | 生成合約、報告等 Word 文件 |
+| [PDF](./skills/documentation/pdf/SKILL.md) | Documentation | 生成正式 PDF 文件或報表 |
+| [PPTX](./skills/documentation/pptx/SKILL.md) | Documentation | 生成提案或報告用的 PowerPoint 簡報 |
+| [XLSX](./skills/documentation/xlsx/SKILL.md) | Documentation | 生成數據分析或報表用的 Excel 試算表 |
+| [Brand Guidelines](./skills/documentation/brand-guidelines/SKILL.md) | Documentation | 檢查內容是否符合品牌語氣與規範 |
+| [Doc Coauthoring](./skills/documentation/doc-coauthoring/SKILL.md) | Documentation | 與您協作編輯同一份文件 |
+| [Internal Comms](./skills/documentation/internal-comms/SKILL.md) | Documentation | 撰寫公司內部公告或信件 |
+| [Webapp Testing](./skills/testing/webapp-testing/SKILL.md) | Testing | 使用 Playwright 自動化測試網頁 |
+| [Algorithmic Art](./skills/custom/algorithmic-art/SKILL.md) | Custom | 使用程式碼繪製幾何圖形與動態視覺 |
+| [MCP Builder](./skills/custom/mcp-builder/SKILL.md) | Custom | 將現有 API 包裝成 AI 可用的 MCP 工具 |
+| [Skill Creator](./skills/custom/skill-creator/SKILL.md) | Custom | 創建新的 SKILL.md 讓 AI 學會新能力 |
+| [Web Artifacts Builder](./skills/custom/web-artifacts-builder/SKILL.md) | Custom | 建立與管理互動式網頁元件 |
+| [Slack GIF Creator](./skills/custom/slack-gif-creator/SKILL.md) | Custom | 自動生成適合 Slack 溝通的 GIF 動畫 |
 
 ### OpenAI 官方
 來自 OpenAI 官方提供的 skills
 
 | Skill 名稱 | 類別 | 簡述 |
 |-----------|------|------|
-| [Create Plan](./skills/productivity/create-plan/SKILL.md) | Productivity | 複雜任務規劃與執行計畫生成 |
-| [Fix failing CI](./skills/devops/gh-fix-ci/SKILL.md) | DevOps | 自動分析與修復 GitHub CI 錯誤 |
-| [Address PR comments](./skills/devops/gh-address-comments/SKILL.md) | DevOps | 快速處理 GitHub PR 評論 |
+| [Create Plan](./skills/productivity/create-plan/SKILL.md) | Productivity | 將複雜需求拆解為可執行的步驟清單 |
+| [Fix failing CI](./skills/devops/gh-fix-ci/SKILL.md) | DevOps | 自動分析並修復 GitHub CI 錯誤 |
+| [Address PR comments](./skills/devops/gh-address-comments/SKILL.md) | DevOps | 快速處理 GitHub PR 的審查意見 |
 
 ### Skill Creator AI
 來自 SkillCreatorAI 開源倉庫
 
 | Skill 名稱 | 類別 | 簡述 |
 |-----------|------|------|
-| [Database Design](./skills/development/database-design/SKILL.md) | Database | 資料庫設計與優化策略 |
-| [Ask Questions](./skills/productivity/ask-questions-if-underspecified/SKILL.md) | Productivity | 主動提問釐清需求 |
-| [Code Documentation](./skills/productivity/code-documentation/SKILL.md) | Productivity | 程式碼文件標準化 |
-| [QA Regression](./skills/testing/qa-regression/SKILL.md) | Testing | 完整 QA 回歸測試架構 |
+| [Database Design](./skills/development/database-design/SKILL.md) | Database | 設計正規化的資料庫與優化查詢效能 |
+| [Ask Questions](./skills/productivity/ask-questions-if-underspecified/SKILL.md) | Productivity | 當需求不清楚時，主動向您提問確認 |
+| [Code Documentation](./skills/productivity/code-documentation/SKILL.md) | Productivity | 為程式碼撰寫標準化的文件與註解 |
+| [QA Regression](./skills/testing/qa-regression/SKILL.md) | Testing | 建立標準化的 QA 回歸測試架構 |
 
 ### Obra Superpowers
 來自 obra/superpowers 倉庫 (via Awesome Claude Skills)
 
 | Skill 名稱 | 類別 | 簡述 |
 |-----------|------|------|
-| [Systematic Debugging](./skills/debugging/systematic-debugging/SKILL.md) | Debugging | 四階段根本原因分析 |
-| [TDD](./skills/testing/test-driven-development/SKILL.md) | Testing | 測試驅動開發 |
-| [Brainstorming](./skills/collaboration/brainstorming/SKILL.md) | Collaboration | 設計思考引導 |
+| [Systematic Debugging](./skills/debugging/systematic-debugging/SKILL.md) | Debugging | 透過四階段分析找出 Bug 的根本原因 |
+| [TDD](./skills/testing/test-driven-development/SKILL.md) | Testing | 先寫測試再寫程式，確保程式碼邏輯正確 |
+| [Brainstorming](./skills/collaboration/brainstorming/SKILL.md) | Collaboration | 透過對話引導，將模糊想法轉化為具體架構 |
 
 ### 自定義 (Custom)
 使用者自行創建的 skills
@@ -265,22 +265,22 @@
 |-----------|------|------|
 | [建立美觀落地頁](./skills/web-development/create-landing-page/SKILL.md) | Web Development | 快速建立專業級的響應式落地頁 |
 | [撰寫產品需求文件 (PRD)](./skills/documentation/write-prd/SKILL.md) | Documentation | 撰寫結構完整的商業導向 PRD |
-| [撰寫規格文件](./skills/documentation/write-specification/SKILL.md) | Documentation | PM 視角規格撰寫完整指引 |
+| [撰寫規格文件](./skills/documentation/write-specification/SKILL.md) | Documentation | 以 PM 角度撰寫清楚的功能規格書 |
 
 ### 其他來源
 從其他社群或專案收集的 skills
 
 | Skill 名稱 | 類別 | 簡述 |
 |-----------|------|------|
-| [UI/UX Pro Max](./skills/web-development/ui-ux-pro-max/SKILL.md) | Web Development | 全方位 UI/UX 設計智能系統 |
-| [Code Debugging Analysis](./skills/debugging/code-debugging-analysis/SKILL.md) | Debugging | 系統化除錯方法論 |
+| [UI/UX Pro Max](./skills/web-development/ui-ux-pro-max/SKILL.md) | Web Development | 設計儀表板、SaaS 或電商的現代化介面 |
+| [Code Debugging Analysis](./skills/debugging/code-debugging-analysis/SKILL.md) | Debugging | 使用系統化方法分析並解決程式錯誤 |
 
 ### HuggingFace 官方
 來自 HuggingFace 官方提供的 skills
 
 | Skill 名稱 | 類別 | 簡述 |
 |-----------|------|------|
-| [HuggingFace CLI](./skills/ai-ml-tools/hugging-face-cli/SKILL.md) | AI/ML Tools | HuggingFace Hub 操作與資源管理 |
+| [HuggingFace CLI](./skills/ai-ml-tools/hugging-face-cli/SKILL.md) | AI/ML Tools | 下載/上傳 AI 模型與資料集 |
 
 ---
 

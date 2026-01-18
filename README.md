@@ -33,14 +33,14 @@ Agent Skill 是一套結構化的指令、範例與最佳實踐，用於擴展 A
 → [**Theme Factory**](./skills/web-development/theme-factory/SKILL.md) — 品牌視覺規範與設計系統
 
 ### 需要測試或除錯？
-→ [**Systematic Debugging**](./skills/debugging/systematic-debugging/SKILL.md) — 專家級四階段除錯流程 (New!)
-→ [**Code Debugging Analysis**](./skills/debugging/code-debugging-analysis/SKILL.md) — 系統化除錯方法論 (Intermediate)
-→ [**TDD**](./skills/testing/test-driven-development/SKILL.md) — 嚴格的紅/綠/重構開發模式 (New!)
-→ [**QA Regression**](./skills/testing/qa-regression/SKILL.md) — Playwright 回歸測試架構
+→ [**Systematic Debugging**](./skills/debugging/systematic-debugging/SKILL.md) — 透過四階段分析找出 Bug 的根本原因 (New!)
+→ [**Code Debugging Analysis**](./skills/debugging/code-debugging-analysis/SKILL.md) — 使用系統化方法分析並解決程式錯誤 (Intermediate)
+→ [**TDD**](./skills/testing/test-driven-development/SKILL.md) — 先寫測試再寫程式，確保程式碼邏輯正確 (New!)
+→ [**QA Regression**](./skills/testing/qa-regression/SKILL.md) — 建立標準化的 QA 回歸測試架構
 
 ### 需要架構設計？
-→ [**Brainstorming**](./skills/collaboration/brainstorming/SKILL.md) — 蘇格拉底式提問引導設計 (New!)
-→ [**Database Design**](./skills/development/database-design/SKILL.md) — 資料庫正規化與遷移策略
+→ [**Brainstorming**](./skills/collaboration/brainstorming/SKILL.md) — 透過對話引導，將模糊想法轉化為具體架構 (New!)
+→ [**Database Design**](./skills/development/database-design/SKILL.md) — 設計正規化的資料庫與優化查詢效能
 
 ### 需要生成 Office 文件？
 → [**DOCX**](./skills/documentation/docx/SKILL.md) / [**PDF**](./skills/documentation/pdf/SKILL.md) / [**PPTX**](./skills/documentation/pptx/SKILL.md) / [**XLSX**](./skills/documentation/xlsx/SKILL.md) — 文件、簡報、試算表生成
@@ -49,28 +49,28 @@ Agent Skill 是一套結構化的指令、範例與最佳實踐，用於擴展 A
 → [**HuggingFace CLI**](./skills/ai-ml-tools/hugging-face-cli/SKILL.md) — 下載/上傳模型、管理資源、雲端運算
 
 ### 需要規劃複雜任務？
-→ [**Create Plan**](./skills/productivity/create-plan/SKILL.md) — 將需求轉換為結構化的執行計畫
+→ [**Create Plan**](./skills/productivity/create-plan/SKILL.md) — 將複雜需求拆解為可執行的步驟清單
 
 ### 需要自動化 GitHub 開發流程？
-→ [**Fix failing CI**](./skills/devops/gh-fix-ci/SKILL.md) — 自動分析與修復 CI 錯誤
-→ [**Address PR comments**](./skills/devops/gh-address-comments/SKILL.md) — 快速處理 Code Review 意見
+→ [**Fix failing CI**](./skills/devops/gh-fix-ci/SKILL.md) — 自動分析並修復 GitHub CI 錯誤
+→ [**Address PR comments**](./skills/devops/gh-address-comments/SKILL.md) — 快速處理 GitHub PR 的審查意見
 
 ### 需要設計資料庫架構？
-→ [**Database Design**](./skills/development/database-design/SKILL.md) — 正規化設計、索引優化與遷移策略
+→ [**Database Design**](./skills/development/database-design/SKILL.md) — 設計正規化的資料庫與優化查詢效能
 
 ### 需要提升開發品質？
-→ [**Code Documentation**](./skills/productivity/code-documentation/SKILL.md) — 撰寫高品質程式碼文件與註解
-→ [**Ask Questions**](./skills/productivity/ask-questions-if-underspecified/SKILL.md) — 主動釐清模糊需求，避免重工
+→ [**Code Documentation**](./skills/productivity/code-documentation/SKILL.md) — 為程式碼撰寫標準化的文件與註解
+→ [**Ask Questions**](./skills/productivity/ask-questions-if-underspecified/SKILL.md) — 當需求不清楚時，主動向您提問確認
 
 **📚 查看全部分類** → [完整索引](./SKILLS_INDEX.md)（按類別、情境、難度、來源檢索）
 
 ## 🆕 最新 Skills
 
 - **[Systematic Debugging](./skills/debugging/systematic-debugging/SKILL.md)** (2026-01-19)  
-  源自 obra/superpowers 的專家級除錯指引，採用「根本原因分析法」四階段流程
+  透過四階段分析找出 Bug 的根本原因，包含 Root Cause 分析與驗證假設
 
 - **[Brainstorming](./skills/collaboration/brainstorming/SKILL.md)** (2026-01-19)  
-  蘇格拉底式提問引導設計，幫助將模糊想法轉化為具體架構
+  透過對話引導，將模糊想法轉化為具體架構
 
 ## 🤔 如何選擇適合的 Skill？
 
