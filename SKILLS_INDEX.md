@@ -60,6 +60,7 @@
 |-----------|------|------|------|
 | [Webapp Testing](./skills/testing/webapp-testing/SKILL.md) | 使用 Playwright 測試本地 web 應用程式 | 🟡 Intermediate | Anthropic |
 | [QA Regression](./skills/testing/qa-regression/SKILL.md) | 完整 QA 回歸測試架構（適用：建立標準化測試套件） | 🟢 Beginner | Skill Creator AI |
+| [TDD](./skills/testing/test-driven-development/SKILL.md) | 測試驅動開發 (Red-Green-Refactor) | 🔴 Advanced | Obra Superpowers |
 
 ### 🚀 Deployment
 
@@ -111,6 +112,7 @@
 | Skill 名稱 | 簡述 | 難度 | 來源 |
 |-----------|------|------|------|
 | [Ask Questions](./skills/productivity/ask-questions-if-underspecified/SKILL.md) | 透過提問釐清需求以避免無效重構 | 🟢 Beginner | Skill Creator AI |
+| [TDD](./skills/testing/test-driven-development/SKILL.md) | 重構時的測試保護網 | 🔴 Advanced | Obra Superpowers |
 | [Code Documentation](./skills/productivity/code-documentation/SKILL.md) | 重構時同步更新文件 | 🟢 Beginner | Skill Creator AI |
 
 ### 🐛 Debugging
@@ -119,7 +121,8 @@
 
 | Skill 名稱 | 簡述 | 難度 | 來源 |
 |-----------|------|------|------|
-| [程式碼除錯分析](./skills/debugging/code-debugging-analysis/SKILL.md) | 系統化除錯流程（適用：Runtime 錯誤、邏輯錯誤、整合問題） | 🔴 Advanced | Other |
+| [Code Debugging Analysis](./skills/debugging/code-debugging-analysis/SKILL.md) | 系統化除錯方法論與分析 | 🟡 Intermediate | Custom |
+| [Systematic Debugging](./skills/debugging/systematic-debugging/SKILL.md) | 嚴格的四階段根本原因分析法 | 🔴 Advanced | Obra Superpowers |
 
 ### 🤖 AI/ML Tools
 
@@ -225,6 +228,14 @@
 ### #testing
 - [Webapp Testing](./skills/testing/webapp-testing/SKILL.md)
 - [QA Regression](./skills/testing/qa-regression/SKILL.md)
+- [TDD](./skills/testing/test-driven-development/SKILL.md)
+
+### #debugging
+- [Code Debugging Analysis](./skills/debugging/code-debugging-analysis/SKILL.md)
+- [Systematic Debugging](./skills/debugging/systematic-debugging/SKILL.md)
+
+### #design
+- [Brainstorming](./skills/collaboration/brainstorming/SKILL.md)
 
 ### #automation
 - [MCP Builder](./skills/custom/mcp-builder/SKILL.md)
@@ -269,6 +280,7 @@
 | [Internal Comms](./skills/documentation/internal-comms/SKILL.md) | Documentation | 管理和起草內部公司溝通 |
 | [Slack GIF Creator](./skills/custom/slack-gif-creator/SKILL.md) | Custom | 在 Slack 上創建和分享 GIF |
 | [QA Regression](./skills/testing/qa-regression/SKILL.md) | Testing | 完整 QA 回歸測試架構 |
+| [Brainstorming](./skills/collaboration/brainstorming/SKILL.md) | Collaboration | 蘇格拉底式提問引導 |
 
 ### 🟡 Intermediate（中級）
 需要一定的背景知識與經驗
@@ -348,6 +360,15 @@
 | [Code Documentation](./skills/productivity/code-documentation/SKILL.md) | Productivity | 程式碼文件標準化 |
 | [QA Regression](./skills/testing/qa-regression/SKILL.md) | Testing | 完整 QA 回歸測試架構 |
 
+### Obra Superpowers
+來自 obra/superpowers 倉庫 (via Awesome Claude Skills)
+
+| Skill 名稱 | 類別 | 簡述 |
+|-----------|------|------|
+| [Systematic Debugging](./skills/debugging/systematic-debugging/SKILL.md) | Debugging | 四階段根本原因分析 |
+| [TDD](./skills/testing/test-driven-development/SKILL.md) | Testing | 測試驅動開發 |
+| [Brainstorming](./skills/collaboration/brainstorming/SKILL.md) | Collaboration | 設計思考引導 |
+
 ### 自定義 (Custom)
 使用者自行創建的 skills
 
@@ -363,7 +384,7 @@
 | Skill 名稱 | 類別 | 簡述 |
 |-----------|------|------|
 | [UI/UX Pro Max](./skills/web-development/ui-ux-pro-max/SKILL.md) | Web Development | 全方位 UI/UX 設計智能系統 |
-| [程式碼除錯分析](./skills/debugging/code-debugging-analysis/SKILL.md) | Debugging | 系統化除錯方法論 |
+| [Code Debugging Analysis](./skills/debugging/code-debugging-analysis/SKILL.md) | Debugging | 系統化除錯方法論 |
 
 ### HuggingFace 官方
 來自 HuggingFace 官方提供的 skills
@@ -377,4 +398,4 @@
 **維護說明**：當新增 skill 時，請同步更新本索引檔案的所有相關章節。建議使用自動化腳本來維護索引（未來可開發）。
 
 **最後更新**：2026-01-18  
-**Skills 總數**：29 個（3 個自創 + 16 個 Anthropic 官方 + 3 個 OpenAI 官方 + 4 個 Skill Creator AI + 1 個 HuggingFace 官方 + 2 個社群）
+**Skills 總數**：32 個（3 個自創 + 16 個 Anthropic 官方 + 3 個 OpenAI 官方 + 4 個 Skill Creator AI + 3 個 Obra Superpowers + 1 個 HuggingFace 官方 + 2 個社群）

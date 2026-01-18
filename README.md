@@ -12,9 +12,9 @@ Agent Skill 是一套結構化的指令、範例與最佳實踐，用於擴展 A
 
 ## 📊 快速總覽
 
-- **Skills 總數**：29 個
-- **主要分類**：網頁開發、資料庫設計、文件撰寫、測試驗證、除錯分析、AI/ML 工具、生產力工具、DevOps 工具、自定義工具
-- **來源**：Anthropic 官方（16）、OpenAI 官方（3）、Skill Creator AI（4）、HuggingFace 官方（1）、自定義（3）、社群貢獻（2）
+- **Skills 總數**：32 個
+- **主要分類**：網頁開發、資料庫設計、文件撰寫、測試驗證、除錯分析、AI/ML 工具、生產力工具、DevOps 工具、協作與架構、自定義工具
+- **來源**：Anthropic 官方（16）、OpenAI 官方（3）、Skill Creator AI（4）、Obra Superpowers（3）、HuggingFace 官方（1）、自定義（3）、社群貢獻（2）
 
 ## 🎯 常見使用場景
 
@@ -33,9 +33,13 @@ Agent Skill 是一套結構化的指令、範例與最佳實踐，用於擴展 A
 → [**Theme Factory**](./skills/web-development/theme-factory/SKILL.md) — 品牌視覺規範與設計系統
 
 ### 需要測試或除錯？
-→ [**Webapp Testing**](./skills/testing/webapp-testing/SKILL.md) — Playwright 自動化測試  
-→ [**QA Regression**](./skills/testing/qa-regression/SKILL.md) — 完整的 QA 回歸測試架構與範本
-→ [**程式碼除錯分析**](./skills/debugging/code-debugging-analysis/SKILL.md) — 系統化除錯方法論
+→ [**Systematic Debugging**](./skills/debugging/systematic-debugging/SKILL.md) — 專家級四階段除錯流程 (New!)
+→ [**TDD**](./skills/testing/test-driven-development/SKILL.md) — 嚴格的紅/綠/重構開發模式 (New!)
+→ [**QA Regression**](./skills/testing/qa-regression/SKILL.md) — Playwright 回歸測試架構
+
+### 需要架構設計？
+→ [**Brainstorming**](./skills/collaboration/brainstorming/SKILL.md) — 蘇格拉底式提問引導設計 (New!)
+→ [**Database Design**](./skills/development/database-design/SKILL.md) — 資料庫正規化與遷移策略
 
 ### 需要生成 Office 文件？
 → [**DOCX**](./skills/documentation/docx/SKILL.md) / [**PDF**](./skills/documentation/pdf/SKILL.md) / [**PPTX**](./skills/documentation/pptx/SKILL.md) / [**XLSX**](./skills/documentation/xlsx/SKILL.md) — 文件、簡報、試算表生成
