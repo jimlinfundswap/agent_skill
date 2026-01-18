@@ -49,6 +49,8 @@
 | Skill 名稱 | 簡述 | 難度 | 來源 |
 |-----------|------|------|------|
 | [Create Plan](./skills/productivity/create-plan/SKILL.md) | 複雜任務規劃（適用：將需求轉換為結構化執行計畫） | 🟡 Intermediate | OpenAI |
+| [Ask Questions](./skills/productivity/ask-questions-if-underspecified/SKILL.md) | 主動釐清需求（適用：當需求模糊時主動提問） | 🟢 Beginner | Skill Creator AI |
+| [Code Documentation](./skills/productivity/code-documentation/SKILL.md) | 程式碼文件撰寫（適用：API 文件、README、註解） | 🟢 Beginner | Skill Creator AI |
 
 ### 🧪 Testing
 
@@ -57,6 +59,7 @@
 | Skill 名稱 | 簡述 | 難度 | 來源 |
 |-----------|------|------|------|
 | [Webapp Testing](./skills/testing/webapp-testing/SKILL.md) | 使用 Playwright 測試本地 web 應用程式 | 🟡 Intermediate | Anthropic |
+| [QA Regression](./skills/testing/qa-regression/SKILL.md) | 完整 QA 回歸測試架構（適用：建立標準化測試套件） | 🟢 Beginner | Skill Creator AI |
 
 ### 🚀 Deployment
 
@@ -64,7 +67,8 @@
 
 | Skill 名稱 | 簡述 | 難度 | 來源 |
 |-----------|------|------|------|
-| 待新增 | - | - | - |
+| [HuggingFace CLI](./skills/ai-ml-tools/hugging-face-cli/SKILL.md) | HuggingFace 部署與資源管理 | 🟡 Intermediate | HuggingFace |
+| [Fix failing CI](./skills/devops/gh-fix-ci/SKILL.md) | 自動修復 GitHub CI/CD 流程 | 🟡 Intermediate | OpenAI |
 
 ### ♾️ DevOps
 
@@ -81,7 +85,7 @@
 
 | Skill 名稱 | 簡述 | 難度 | 來源 |
 |-----------|------|------|------|
-| 待新增 | - | - | - |
+| [Database Design](./skills/development/database-design/SKILL.md) | 資料庫設計與優化（適用：Schema 設計、索引優化、遷移） | 🔴 Advanced | Skill Creator AI |
 
 ### 🔌 API Integration
 
@@ -89,7 +93,8 @@
 
 | Skill 名稱 | 簡述 | 難度 | 來源 |
 |-----------|------|------|------|
-| 待新增 | - | - | - |
+| [Code Documentation](./skills/productivity/code-documentation/SKILL.md) | API 文件撰寫規範 (Swagger/OpenAPI) | 🟢 Beginner | Skill Creator AI |
+| [HuggingFace CLI](./skills/ai-ml-tools/hugging-face-cli/SKILL.md) | 使用 API 操作 HuggingFace Hub | 🟡 Intermediate | HuggingFace |
 
 ### 👁️ Code Review
 
@@ -97,7 +102,7 @@
 
 | Skill 名稱 | 簡述 | 難度 | 來源 |
 |-----------|------|------|------|
-| 待新增 | - | - | - |
+| [Address PR comments](./skills/devops/gh-address-comments/SKILL.md) | 處理 GitHub PR 評論與審查意見 | 🟡 Intermediate | OpenAI |
 
 ### 🔧 Refactoring
 
@@ -105,7 +110,8 @@
 
 | Skill 名稱 | 簡述 | 難度 | 來源 |
 |-----------|------|------|------|
-| 待新增 | - | - | - |
+| [Ask Questions](./skills/productivity/ask-questions-if-underspecified/SKILL.md) | 透過提問釐清需求以避免無效重構 | 🟢 Beginner | Skill Creator AI |
+| [Code Documentation](./skills/productivity/code-documentation/SKILL.md) | 重構時同步更新文件 | 🟢 Beginner | Skill Creator AI |
 
 ### 🐛 Debugging
 
@@ -162,6 +168,7 @@
 
 ### 🎯 需要測試 Web 應用
 - [Webapp Testing](./skills/testing/webapp-testing/SKILL.md) - Playwright 自動化測試
+- [QA Regression](./skills/testing/qa-regression/SKILL.md) - 完整 QA 回歸測試架構與範本
 
 ### 🎯 需要企業內部溝通
 - [Internal Comms](./skills/documentation/internal-comms/SKILL.md) - 內部溝通文件
@@ -184,6 +191,13 @@
 ### 🎯 需要自動化 GitHub 開發流程
 - [Fix failing CI](./skills/devops/gh-fix-ci/SKILL.md) - 自動分析與修復 CI 錯誤
 - [Address PR comments](./skills/devops/gh-address-comments/SKILL.md) - 快速處理 Code Review 意見
+
+### 🎯 需要設計資料庫架構
+- [Database Design](./skills/development/database-design/SKILL.md) - 正規化設計、索引優化與遷移策略
+
+### 🎯 需要提升程式碼品質
+- [Code Documentation](./skills/productivity/code-documentation/SKILL.md) - 撰寫高品質程式碼文件與註解
+- [Ask Questions](./skills/productivity/ask-questions-if-underspecified/SKILL.md) - 主動釐清模糊需求，避免重工
 
 ---
 
@@ -210,6 +224,7 @@
 
 ### #testing
 - [Webapp Testing](./skills/testing/webapp-testing/SKILL.md)
+- [QA Regression](./skills/testing/qa-regression/SKILL.md)
 
 ### #automation
 - [MCP Builder](./skills/custom/mcp-builder/SKILL.md)
@@ -237,6 +252,9 @@
 - [Fix failing CI](./skills/devops/gh-fix-ci/SKILL.md)
 - [Address PR comments](./skills/devops/gh-address-comments/SKILL.md)
 
+### #database
+- [Database Design](./skills/development/database-design/SKILL.md)
+
 ---
 
 ## 按難度索引
@@ -250,6 +268,7 @@
 | [Brand Guidelines](./skills/documentation/brand-guidelines/SKILL.md) | Documentation | 確保內容符合品牌規範 |
 | [Internal Comms](./skills/documentation/internal-comms/SKILL.md) | Documentation | 管理和起草內部公司溝通 |
 | [Slack GIF Creator](./skills/custom/slack-gif-creator/SKILL.md) | Custom | 在 Slack 上創建和分享 GIF |
+| [QA Regression](./skills/testing/qa-regression/SKILL.md) | Testing | 完整 QA 回歸測試架構 |
 
 ### 🟡 Intermediate（中級）
 需要一定的背景知識與經驗
@@ -319,6 +338,16 @@
 | [Fix failing CI](./skills/devops/gh-fix-ci/SKILL.md) | DevOps | 自動分析與修復 GitHub CI 錯誤 |
 | [Address PR comments](./skills/devops/gh-address-comments/SKILL.md) | DevOps | 快速處理 GitHub PR 評論 |
 
+### Skill Creator AI
+來自 SkillCreatorAI 開源倉庫
+
+| Skill 名稱 | 類別 | 簡述 |
+|-----------|------|------|
+| [Database Design](./skills/development/database-design/SKILL.md) | Database | 資料庫設計與優化策略 |
+| [Ask Questions](./skills/productivity/ask-questions-if-underspecified/SKILL.md) | Productivity | 主動提問釐清需求 |
+| [Code Documentation](./skills/productivity/code-documentation/SKILL.md) | Productivity | 程式碼文件標準化 |
+| [QA Regression](./skills/testing/qa-regression/SKILL.md) | Testing | 完整 QA 回歸測試架構 |
+
 ### 自定義 (Custom)
 使用者自行創建的 skills
 
@@ -348,4 +377,4 @@
 **維護說明**：當新增 skill 時，請同步更新本索引檔案的所有相關章節。建議使用自動化腳本來維護索引（未來可開發）。
 
 **最後更新**：2026-01-18  
-**Skills 總數**：25 個（3 個自創 + 16 個 Anthropic 官方 + 3 個 OpenAI 官方 + 1 個 HuggingFace 官方 + 2 個社群）
+**Skills 總數**：29 個（3 個自創 + 16 個 Anthropic 官方 + 3 個 OpenAI 官方 + 4 個 Skill Creator AI + 1 個 HuggingFace 官方 + 2 個社群）
