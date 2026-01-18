@@ -96,7 +96,7 @@
 
 | Skill 名稱 | 簡述 | 難度 | 來源 |
 |-----------|------|------|------|
-| 待新增 | - | - | - |
+| [程式碼除錯分析](./skills/debugging/code-debugging-analysis/SKILL.md) | 系統化除錯方法論，包含七階段流程與結構化分析 | 🔴 Advanced | Other |
 
 ### ⭐ Custom
 
@@ -147,6 +147,9 @@
 - [Skill Creator](./skills/custom/skill-creator/SKILL.md) - 創建新 skills
 - [Web Artifacts Builder](./skills/custom/web-artifacts-builder/SKILL.md) - Web artifacts 建構
 
+### 🎯 需要除錯程式碼
+- [程式碼除錯分析](./skills/debugging/code-debugging-analysis/SKILL.md) - 系統化除錯方法論
+
 ---
 
 ## 按標籤索引
@@ -185,6 +188,9 @@
 ### #creative
 - [Canvas Design](./skills/web-development/canvas-design/SKILL.md)
 - [Algorithmic Art](./skills/custom/algorithmic-art/SKILL.md)
+
+### #debugging
+- [程式碼除錯分析](./skills/debugging/code-debugging-analysis/SKILL.md)
 
 ---
 
@@ -227,6 +233,7 @@
 | [Canvas Design](./skills/web-development/canvas-design/SKILL.md) | Web Development | 使用設計哲學創建專業級視覺藝術 |
 | [Algorithmic Art](./skills/custom/algorithmic-art/SKILL.md) | Custom | 創建生成式與演算法藝術 |
 | [MCP Builder](./skills/custom/mcp-builder/SKILL.md) | Custom | 自動生成 MCP 伺服器 |
+| [程式碼除錯分析](./skills/debugging/code-debugging-analysis/SKILL.md) | Debugging | 系統化除錯方法論 |
 
 ---
 
@@ -269,10 +276,11 @@
 | Skill 名稱 | 類別 | 簡述 |
 |-----------|------|------|
 | [UI/UX Pro Max](./skills/web-development/ui-ux-pro-max/SKILL.md) | Web Development | 全方位 UI/UX 設計智能系統 |
+| [程式碼除錯分析](./skills/debugging/code-debugging-analysis/SKILL.md) | Debugging | 系統化除錯方法論 |
 
 ---
 
 **維護說明**：當新增 skill 時，請同步更新本索引檔案的所有相關章節。建議使用自動化腳本來維護索引（未來可開發）。
 
 **最後更新**：2026-01-18  
-**Skills 總數**：20 個（3 個自創 + 16 個 Anthropic 官方 + 1 個社群）
+**Skills 總數**：21 個（3 個自創 + 16 個 Anthropic 官方 + 2 個社群）
