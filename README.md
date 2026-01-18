@@ -41,6 +41,7 @@
 - **[完整索引](./SKILLS_INDEX.md)** - 查看所有 skills 的詳細索引（按類別、情境、標籤、難度、來源）
 - **[快速開始](./QUICK_START.md)** - 學習如何使用這個倉庫
 - **[貢獻指南](./CONTRIBUTING.md)** - 了解如何新增或改進 skills
+- [**部署指南**](./DEPLOYMENT_GUIDE.md) - 如何在不同專案中使用 skills ⭐
 
 ## 🆕 最新 Skills
 
