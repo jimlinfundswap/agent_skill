@@ -33,6 +33,7 @@
 | Skill 名稱 | 簡述 | 難度 | 來源 |
 |-----------|------|------|------|
 | [撰寫產品需求文件 (PRD)](./skills/documentation/write-prd/SKILL.md) | 撰寫結構完整的商業導向 PRD | 🟡 Intermediate | Custom |
+| [撰寫規格文件](./skills/documentation/write-specification/SKILL.md) | PM 視角的規格撰寫完整指南，涵蓋四種規格模式 | 🟡 Intermediate | Custom |
 | [DOCX](./skills/documentation/docx/SKILL.md) | 創建和編輯 Microsoft Word 文件 | 🟡 Intermediate | Anthropic |
 | [PDF](./skills/documentation/pdf/SKILL.md) | PDF 生成與操作 | 🟡 Intermediate | Anthropic |
 | [PPTX](./skills/documentation/pptx/SKILL.md) | 創建和編輯 PowerPoint 簡報 | 🟡 Intermediate | Anthropic |
@@ -121,6 +122,7 @@
 
 ### 🎯 需要撰寫技術文件
 - [撰寫產品需求文件 (PRD)](./skills/documentation/write-prd/SKILL.md) - 新功能開發、需求標準化、跨團隊溝通
+- [撰寫規格文件](./skills/documentation/write-specification/SKILL.md) - PM 視角指引，涵蓋四種規格模式
 - [Doc Coauthoring](./skills/documentation/doc-coauthoring/SKILL.md) - 協作文件撰寫
 
 ### 🎯 需要創建 Office 文件
@@ -161,6 +163,7 @@
 
 ### #documentation
 - [撰寫產品需求文件 (PRD)](./skills/documentation/write-prd/SKILL.md)
+- [撰寫規格文件](./skills/documentation/write-specification/SKILL.md)
 - [DOCX](./skills/documentation/docx/SKILL.md)
 - [PDF](./skills/documentation/pdf/SKILL.md)
 - [PPTX](./skills/documentation/pptx/SKILL.md)
@@ -202,7 +205,8 @@
 
 | Skill 名稱 | 類別 | 簡述 |
 |-----------|------|------|
-| [撰寫產品需求文件 (PRD)](./skills/documentation/write-prd/SKILL.md) | Documentation | 撰寫結構完整的商業導向 PRD |
+| 撰寫產品需求文件 (PRD)](./skills/documentation/write-prd/SKILL.md) | Documentation | 撰寫結構完整的商業導向 PRD |
+| [撰寫規格文件](./skills/documentation/write-specification/SKILL.md) | Documentation | PM 視角規格撰寫指引 |
 | [Frontend Design](./skills/web-development/frontend-design/SKILL.md) | Web Development | 前端設計與開發 |
 | [Theme Factory](./skills/web-development/theme-factory/SKILL.md) | Web Development | 創建一致的視覺主題系統 |
 | [UI/UX Pro Max](./skills/web-development/ui-ux-pro-max/SKILL.md) | Web Development | 全方位 UI/UX 設計系統 |
@@ -257,6 +261,7 @@
 |-----------|------|------|
 | [建立美觀落地頁](./skills/web-development/create-landing-page/SKILL.md) | Web Development | 快速建立專業級的響應式落地頁 |
 | [撰寫產品需求文件 (PRD)](./skills/documentation/write-prd/SKILL.md) | Documentation | 撰寫結構完整的商業導向 PRD |
+| [撰寫規格文件](./skills/documentation/write-specification/SKILL.md) | Documentation | PM 視角規格撰寫完整指引 |
 
 ### 其他來源
 從其他社群或專案收集的 skills
@@ -270,4 +275,4 @@
 **維護說明**：當新增 skill 時，請同步更新本索引檔案的所有相關章節。建議使用自動化腳本來維護索引（未來可開發）。
 
 **最後更新**：2026-01-18  
-**Skills 總數**：19 個（2 個自創 + 16 個 Anthropic 官方 + 1 個社群）
+**Skills 總數**：20 個（3 個自創 + 16 個 Anthropic 官方 + 1 個社群）
