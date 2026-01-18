@@ -12,9 +12,9 @@ Agent Skill 是一套結構化的指令、範例與最佳實踐，用於擴展 A
 
 ## 📊 快速總覽
 
-- **Skills 總數**：21 個
-- **主要分類**：網頁開發、文件撰寫、測試驗證、除錯分析、自定義工具
-- **來源**：Anthropic 官方（16）、自定義（3）、社群貢獻（2）
+- **Skills 總數**：25 個
+- **主要分類**：網頁開發、文件撰寫、測試驗證、除錯分析、AI/ML 工具、生產力工具、DevOps 工具、自定義工具
+- **來源**：Anthropic 官方（16）、OpenAI 官方（3）、HuggingFace 官方（1）、自定義（3）、社群貢獻（2）
 
 ## 🎯 常見使用場景
 
@@ -39,6 +39,16 @@ Agent Skill 是一套結構化的指令、範例與最佳實踐，用於擴展 A
 ### 需要生成 Office 文件？
 → [**DOCX**](./skills/documentation/docx/SKILL.md) / [**PDF**](./skills/documentation/pdf/SKILL.md) / [**PPTX**](./skills/documentation/pptx/SKILL.md) / [**XLSX**](./skills/documentation/xlsx/SKILL.md) — 文件、簡報、試算表生成
 
+### 需要使用 HuggingFace Hub？
+→ [**HuggingFace CLI**](./skills/ai-ml-tools/hugging-face-cli/SKILL.md) — 下載/上傳模型、管理資源、雲端運算
+
+### 需要規劃複雜任務？
+→ [**Create Plan**](./skills/productivity/create-plan/SKILL.md) — 將需求轉換為結構化的執行計畫
+
+### 需要自動化 GitHub 開發流程？
+→ [**Fix failing CI**](./skills/devops/gh-fix-ci/SKILL.md) — 自動分析與修復 CI 錯誤
+→ [**Address PR comments**](./skills/devops/gh-address-comments/SKILL.md) — 快速處理 Code Review 意見
+
 **📚 查看全部分類** → [完整索引](./SKILLS_INDEX.md)（按類別、情境、難度、來源檢索）
 
 ## 🆕 最新 Skills
@@ -58,7 +68,7 @@ Agent Skill 是一套結構化的指令、範例與最佳實踐，用於擴展 A
    - 🟡 **Intermediate** — 需要一定背景知識
    - 🔴 **Advanced** — 適合進階使用者
 4. **瀏覽範例**：參考 `examples/` 資料夾中的實際案例
-5. **需要更多選擇？**→ 前往 [完整索引](./SKILLS_INDEX.md) 查看所有 21 個 skills
+5. **需要更多選擇？**→ 前往 [完整索引](./SKILLS_INDEX.md) 查看所有 22 個 skills
 
 ## 🚀 快速開始
 

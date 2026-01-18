@@ -42,6 +42,14 @@
 | [Doc Coauthoring](./skills/documentation/doc-coauthoring/SKILL.md) | 協作文件撰寫（適用：團隊共同編輯文件） | 🟡 Intermediate | Anthropic |
 | [Internal Comms](./skills/documentation/internal-comms/SKILL.md) | 內部溝通文件（適用：公司公告、內部信件） | 🟢 Beginner | Anthropic |
 
+### ⚡ Productivity
+
+> 生產力與任務規劃相關的 skills
+
+| Skill 名稱 | 簡述 | 難度 | 來源 |
+|-----------|------|------|------|
+| [Create Plan](./skills/productivity/create-plan/SKILL.md) | 複雜任務規劃（適用：將需求轉換為結構化執行計畫） | 🟡 Intermediate | OpenAI |
+
 ### 🧪 Testing
 
 > 測試與驗證相關的 skills
@@ -57,6 +65,15 @@
 | Skill 名稱 | 簡述 | 難度 | 來源 |
 |-----------|------|------|------|
 | 待新增 | - | - | - |
+
+### ♾️ DevOps
+
+> 開發維運與自動化相關的 skills
+
+| Skill 名稱 | 簡述 | 難度 | 來源 |
+|-----------|------|------|------|
+| [Fix failing CI](./skills/devops/gh-fix-ci/SKILL.md) | 自動修復 CI 錯誤（適用：GitHub Actions 除錯與修復） | 🟡 Intermediate | OpenAI |
+| [Address PR comments](./skills/devops/gh-address-comments/SKILL.md) | 處理 PR 評論（適用：GitHub PR Code Review 協作） | 🟡 Intermediate | OpenAI |
 
 ### 💾 Database
 
@@ -97,6 +114,14 @@
 | Skill 名稱 | 簡述 | 難度 | 來源 |
 |-----------|------|------|------|
 | [程式碼除錯分析](./skills/debugging/code-debugging-analysis/SKILL.md) | 系統化除錯流程（適用：Runtime 錯誤、邏輯錯誤、整合問題） | 🔴 Advanced | Other |
+
+### 🤖 AI/ML Tools
+
+> AI/ML 開發相關工具
+
+| Skill 名稱 | 簡述 | 難度 | 來源 |
+|-----------|------|------|------|
+| [HuggingFace CLI](./skills/ai-ml-tools/hugging-face-cli/SKILL.md) | HuggingFace Hub 操作（適用：下載/上傳模型、資源管理、雲端運算） | 🟡 Intermediate | HuggingFace |
 
 ### ⭐ Custom
 
@@ -150,6 +175,16 @@
 ### 🎯 需要除錯程式碼
 - [程式碼除錯分析](./skills/debugging/code-debugging-analysis/SKILL.md) - 系統化除錯方法論
 
+### 🎯 需要使用 HuggingFace Hub
+- [HuggingFace CLI](./skills/ai-ml-tools/hugging-face-cli/SKILL.md) - 下載/上傳模型、資源管理、雲端運算
+
+### 🎯 需要規劃複雜任務
+- [Create Plan](./skills/productivity/create-plan/SKILL.md) - 將需求轉換為結構化的執行計畫
+
+### 🎯 需要自動化 GitHub 開發流程
+- [Fix failing CI](./skills/devops/gh-fix-ci/SKILL.md) - 自動分析與修復 CI 錯誤
+- [Address PR comments](./skills/devops/gh-address-comments/SKILL.md) - 快速處理 Code Review 意見
+
 ---
 
 ## 按標籤索引
@@ -192,6 +227,16 @@
 ### #debugging
 - [程式碼除錯分析](./skills/debugging/code-debugging-analysis/SKILL.md)
 
+### #ai-ml
+- [HuggingFace CLI](./skills/ai-ml-tools/hugging-face-cli/SKILL.md)
+
+### #productivity
+- [Create Plan](./skills/productivity/create-plan/SKILL.md)
+
+### #devops
+- [Fix failing CI](./skills/devops/gh-fix-ci/SKILL.md)
+- [Address PR comments](./skills/devops/gh-address-comments/SKILL.md)
+
 ---
 
 ## 按難度索引
@@ -224,6 +269,10 @@
 | [Webapp Testing](./skills/testing/webapp-testing/SKILL.md) | Testing | 使用 Playwright 測試 web 應用 |
 | [Skill Creator](./skills/custom/skill-creator/SKILL.md) | Custom | 幫助用戶創建新的 skills |
 | [Web Artifacts Builder](./skills/custom/web-artifacts-builder/SKILL.md) | Custom | 建構和管理 web artifacts |
+| [HuggingFace CLI](./skills/ai-ml-tools/hugging-face-cli/SKILL.md) | AI/ML Tools | HuggingFace Hub 操作與管理 |
+| [Create Plan](./skills/productivity/create-plan/SKILL.md) | Productivity | 複雜任務規劃與執行計畫生成 |
+| [Fix failing CI](./skills/devops/gh-fix-ci/SKILL.md) | DevOps | 自動分析與修復 CI 錯誤 |
+| [Address PR comments](./skills/devops/gh-address-comments/SKILL.md) | DevOps | 快速處理 PR 評論 |
 
 ### 🔴 Advanced（進階）
 適合有豐富經驗的使用者
@@ -261,6 +310,15 @@
 | [Web Artifacts Builder](./skills/custom/web-artifacts-builder/SKILL.md) | Custom | 建構和管理 web artifacts |
 | [Slack GIF Creator](./skills/custom/slack-gif-creator/SKILL.md) | Custom | Slack GIF 創建工具 |
 
+### OpenAI 官方
+來自 OpenAI 官方提供的 skills
+
+| Skill 名稱 | 類別 | 簡述 |
+|-----------|------|------|
+| [Create Plan](./skills/productivity/create-plan/SKILL.md) | Productivity | 複雜任務規劃與執行計畫生成 |
+| [Fix failing CI](./skills/devops/gh-fix-ci/SKILL.md) | DevOps | 自動分析與修復 GitHub CI 錯誤 |
+| [Address PR comments](./skills/devops/gh-address-comments/SKILL.md) | DevOps | 快速處理 GitHub PR 評論 |
+
 ### 自定義 (Custom)
 使用者自行創建的 skills
 
@@ -278,9 +336,16 @@
 | [UI/UX Pro Max](./skills/web-development/ui-ux-pro-max/SKILL.md) | Web Development | 全方位 UI/UX 設計智能系統 |
 | [程式碼除錯分析](./skills/debugging/code-debugging-analysis/SKILL.md) | Debugging | 系統化除錯方法論 |
 
+### HuggingFace 官方
+來自 HuggingFace 官方提供的 skills
+
+| Skill 名稱 | 類別 | 簡述 |
+|-----------|------|------|
+| [HuggingFace CLI](./skills/ai-ml-tools/hugging-face-cli/SKILL.md) | AI/ML Tools | HuggingFace Hub 操作與資源管理 |
+
 ---
 
 **維護說明**：當新增 skill 時，請同步更新本索引檔案的所有相關章節。建議使用自動化腳本來維護索引（未來可開發）。
 
 **最後更新**：2026-01-18  
-**Skills 總數**：21 個（3 個自創 + 16 個 Anthropic 官方 + 2 個社群）
+**Skills 總數**：25 個（3 個自創 + 16 個 Anthropic 官方 + 3 個 OpenAI 官方 + 1 個 HuggingFace 官方 + 2 個社群）
