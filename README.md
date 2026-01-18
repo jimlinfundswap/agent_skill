@@ -1,84 +1,82 @@
 # Agent Skills 收集倉庫
 
-這是一個收集和管理各種 AI Agent Skills 的倉庫，旨在幫助您快速找到並使用適合的 skill 來提升 AI 助理的能力。
-
-## 📊 統計資訊
-
-- **Skills 總數**：21 個（3 個自創 + 16 個 Anthropic 官方 + 2 個社群）
-- **分類數量**：10 個主要類別
-- **來源**：Anthropic（16）、自定義（3）、其他來源（2）
-
-## 🎯 快速檢索
-
-### 依情境查找
-
-#### 需要開發網頁？
-- [建立落地頁](./skills/web-development/) - 快速建立美觀的網站
-
-#### 需要撰寫文件？
-- [撰寫 PRD](./skills/documentation/) - 產品需求文件撰寫
-
-#### 需要測試驗證？
-- [自動化測試](./skills/testing/) - 測試流程與驗證
-
-### 依類別查找
-
-| 類別 | 說明 | Skills 數量 |
-|------|------|-------------|
-| 🌐 [Web Development](./skills/web-development/) | 網頁開發相關 | 5 |
-| 📝 [Documentation](./skills/documentation/) | 文件撰寫 | 9 |
-| 🧪 [Testing](./skills/testing/) | 測試與驗證 | 1 |
-| 🚀 [Deployment](./skills/deployment/) | 部署與維運 | 0 |
-| 💾 [Database](./skills/database/) | 資料庫操作 | 0 |
-| 🔌 [API Integration](./skills/api-integration/) | API 整合 | 0 |
-| 👁️ [Code Review](./skills/code-review/) | 程式碼審查 | 0 |
-| 🔧 [Refactoring](./skills/refactoring/) | 重構 | 0 |
-| 🐛 [Debugging](./skills/debugging/) | 除錯 | 1 |
-| ⭐ [Custom](./skills/custom/) | 自定義 Skills | 5 |
-
-## 📚 完整文檔
-
-- **[完整索引](./SKILLS_INDEX.md)** - 查看所有 skills 的詳細索引（按類別、情境、標籤、難度、來源）
-- **[快速開始](./QUICK_START.md)** - 學習如何使用這個倉庫
-- **[貢獻指南](./CONTRIBUTING.md)** - 了解如何新增或改進 skills
-- [**部署指南**](./DEPLOYMENT_GUIDE.md) - 如何在不同專案中使用 skills ⭐
-
-## 🆕 最新 Skills
-
-- **[撰寫產品需求文件 (PRD)](./skills/documentation/write-prd/SKILL.md)** (2026-01-18)
-  - 商業導向的 PRD 撰寫指引，強調架構優先與情境化描述
-  
-- **[建立美觀落地頁](./skills/web-development/create-landing-page/SKILL.md)** (2026-01-18)
-  - 快速建立專業級響應式落地頁，包含現代設計原則與動畫效果
-
-## 🔥 熱門 Skills
-
-> 待更新：根據使用頻率統計
+一個精心整理的 AI Agent Skills 資料庫，幫助您快速擴展 AI 助理的專業能力。
 
 ## 💡 什麼是 Agent Skill？
 
-Agent Skill 是一套結構化的指令與範例，用於擴展 AI 助理的特定能力。每個 skill 包含：
+Agent Skill 是一套結構化的指令、範例與最佳實踐，用於擴展 AI 助理在特定領域的能力。每個 skill 都包含：
+- **明確的適用情境** — 什麼時候需要用到
+- **詳細的使用說明** — 如何正確使用
+- **實際範例** — 具體的使用案例
+- **注意事項** — 使用時的關鍵要點
 
-- **明確的適用情境**：什麼時候需要用到這個 skill
-- **詳細的使用說明**：如何正確使用這個 skill
-- **實際範例**：具體的使用案例與程式碼
-- **注意事項**：使用時需要留意的重點
+## 📊 快速總覽
+
+- **Skills 總數**：21 個
+- **主要分類**：網頁開發、文件撰寫、測試驗證、除錯分析、自定義工具
+- **來源**：Anthropic 官方（16）、自定義（3）、社群貢獻（2）
+
+## 🎯 常見使用場景
+
+不確定該用哪個 skill？從您的需求出發：
+
+### 需要建立網站或落地頁？
+→ [**建立美觀落地頁**](./skills/web-development/create-landing-page/SKILL.md) — 快速建立專業級響應式網站（產品介紹、行銷頁面）  
+→ [**UI/UX Pro Max**](./skills/web-development/ui-ux-pro-max/SKILL.md) — 互動式應用介面設計（Dashboard、SaaS、電商）
+
+### 需要撰寫產品文件？
+→ [**撰寫產品需求文件 (PRD)**](./skills/documentation/write-prd/SKILL.md) — 商業導向的需求文件  
+→ [**撰寫規格文件**](./skills/documentation/write-specification/SKILL.md) — PM 視角的功能規格
+
+### 需要設計視覺藝術？
+→ [**Canvas Design**](./skills/web-development/canvas-design/SKILL.md) — 專業級視覺藝術創作（海報、PDF/PNG 輸出）  
+→ [**Theme Factory**](./skills/web-development/theme-factory/SKILL.md) — 品牌視覺規範與設計系統
+
+### 需要測試或除錯？
+→ [**Webapp Testing**](./skills/testing/webapp-testing/SKILL.md) — Playwright 自動化測試  
+→ [**程式碼除錯分析**](./skills/debugging/code-debugging-analysis/SKILL.md) — 系統化除錯方法論
+
+### 需要生成 Office 文件？
+→ [**DOCX**](./skills/documentation/docx/SKILL.md) / [**PDF**](./skills/documentation/pdf/SKILL.md) / [**PPTX**](./skills/documentation/pptx/SKILL.md) / [**XLSX**](./skills/documentation/xlsx/SKILL.md) — 文件、簡報、試算表生成
+
+**📚 查看全部分類** → [完整索引](./SKILLS_INDEX.md)（按類別、情境、難度、來源檢索）
+
+## 🆕 最新 Skills
+
+- **[撰寫產品需求文件 (PRD)](./skills/documentation/write-prd/SKILL.md)** (2026-01-18)  
+  商業導向的 PRD 撰寫指引，強調架構優先與情境化描述
+
+- **[建立美觀落地頁](./skills/web-development/create-landing-page/SKILL.md)** (2026-01-18)  
+  快速建立專業級響應式落地頁，包含現代設計原則與動畫效果
+
+## 🤔 如何選擇適合的 Skill？
+
+1. **從需求出發**：先看「常見使用場景」找到相關 skills
+2. **查看詳細說明**：點進 `SKILL.md` 了解適用情境與使用方式
+3. **檢查難度等級**：
+   - 🟢 **Beginner** — 適合初次使用
+   - 🟡 **Intermediate** — 需要一定背景知識
+   - 🔴 **Advanced** — 適合進階使用者
+4. **瀏覽範例**：參考 `examples/` 資料夾中的實際案例
+5. **需要更多選擇？**→ 前往 [完整索引](./SKILLS_INDEX.md) 查看所有 21 個 skills
 
 ## 🚀 快速開始
 
-1. **瀏覽類別**：從上方的分類表格選擇您需要的類別
-2. **查看 skill**：進入分類目錄，閱讀 `SKILL.md` 檔案
-3. **參考範例**：查看 `examples/` 資料夾中的實際案例
-4. **開始使用**：依照說明在您的專案中使用 skill
+1. **瀏覽場景** — 從上方的常見場景選擇您的需求
+2. **查看 skill** — 點進連結，閱讀 `SKILL.md` 檔案
+3. **參考範例** — 查看 `examples/` 資料夾中的使用案例
+4. **開始使用** — 依照說明在您的 AI 對話中使用 skill
+
+## 📖 完整文檔
+
+- **[完整索引](./SKILLS_INDEX.md)** — 所有 skills 的詳細索引（按類別、情境、標籤、難度、來源）
+- **[快速開始](./QUICK_START.md)** — 學習如何使用這個倉庫
+- **[部署指南](./DEPLOYMENT_GUIDE.md)** — 如何在不同專案中使用 skills
+- **[貢獻指南](./CONTRIBUTING.md)** — 了解如何新增或改進 skills
 
 ## 🤝 貢獻
 
 歡迎貢獻新的 skills 或改進現有的 skills！請參閱 [貢獻指南](./CONTRIBUTING.md) 了解詳情。
-
-## 📖 相關資源
-
-- [Anthropic Skills 文檔](https://docs.anthropic.com/)
-- [Skill 撰寫範本](./templates/SKILL_TEMPLATE.md)
 
 ---
 

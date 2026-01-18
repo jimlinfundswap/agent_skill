@@ -211,7 +211,7 @@
 
 | Skill 名稱 | 類別 | 簡述 |
 |-----------|------|------|
-| 撰寫產品需求文件 (PRD)](./skills/documentation/write-prd/SKILL.md) | Documentation | 撰寫結構完整的商業導向 PRD |
+| [撰寫產品需求文件 (PRD)](./skills/documentation/write-prd/SKILL.md) | Documentation | 撰寫結構完整的商業導向 PRD |
 | [撰寫規格文件](./skills/documentation/write-specification/SKILL.md) | Documentation | PM 視角規格撰寫指引 |
 | [Frontend Design](./skills/web-development/frontend-design/SKILL.md) | Web Development | 前端設計與開發 |
 | [Theme Factory](./skills/web-development/theme-factory/SKILL.md) | Web Development | 創建一致的視覺主題系統 |
