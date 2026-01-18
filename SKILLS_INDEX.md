@@ -24,6 +24,7 @@
 | [Canvas Design](./skills/web-development/canvas-design/SKILL.md) | 使用設計哲學創建美麗的視覺藝術 | 🔴 Advanced | Anthropic |
 | [Frontend Design](./skills/web-development/frontend-design/SKILL.md) | 前端設計與開發 | 🟡 Intermediate | Anthropic |
 | [Theme Factory](./skills/web-development/theme-factory/SKILL.md) | 創建一致的視覺主題系統 | 🟡 Intermediate | Anthropic |
+| [UI/UX Pro Max](./skills/web-development/ui-ux-pro-max/SKILL.md) | 全方位 UI/UX 設計智能系統，包含 57 種風格、95 個色彩方案、56 個字體配對 | 🟡 Intermediate | Other |
 
 ### 📝 Documentation
 
@@ -116,6 +117,7 @@
 - [建立美觀落地頁](./skills/web-development/create-landing-page/SKILL.md) - 產品介紹頁、行銷活動頁、作品集
 - [Frontend Design](./skills/web-development/frontend-design/SKILL.md) - 前端設計與開發
 - [Theme Factory](./skills/web-development/theme-factory/SKILL.md) - 視覺主題系統
+- [UI/UX Pro Max](./skills/web-development/ui-ux-pro-max/SKILL.md) - 全方位設計系統，包含風格、配色、字體
 
 ### 🎯 需要撰寫技術文件
 - [撰寫產品需求文件 (PRD)](./skills/documentation/write-prd/SKILL.md) - 新功能開發、需求標準化、跨團隊溝通
@@ -155,6 +157,7 @@
 - [Canvas Design](./skills/web-development/canvas-design/SKILL.md)
 - [Theme Factory](./skills/web-development/theme-factory/SKILL.md)
 - [Algorithmic Art](./skills/custom/algorithmic-art/SKILL.md)
+- [UI/UX Pro Max](./skills/web-development/ui-ux-pro-max/SKILL.md)
 
 ### #documentation
 - [撰寫產品需求文件 (PRD)](./skills/documentation/write-prd/SKILL.md)
@@ -202,6 +205,7 @@
 | [撰寫產品需求文件 (PRD)](./skills/documentation/write-prd/SKILL.md) | Documentation | 撰寫結構完整的商業導向 PRD |
 | [Frontend Design](./skills/web-development/frontend-design/SKILL.md) | Web Development | 前端設計與開發 |
 | [Theme Factory](./skills/web-development/theme-factory/SKILL.md) | Web Development | 創建一致的視覺主題系統 |
+| [UI/UX Pro Max](./skills/web-development/ui-ux-pro-max/SKILL.md) | Web Development | 全方位 UI/UX 設計系統 |
 | [DOCX](./skills/documentation/docx/SKILL.md) | Documentation | 創建和編輯 Word 文件 |
 | [PDF](./skills/documentation/pdf/SKILL.md) | Documentation | PDF 生成與操作 |
 | [PPTX](./skills/documentation/pptx/SKILL.md) | Documentation | 創建和編輯 PowerPoint 簡報 |
@@ -259,11 +263,11 @@
 
 | Skill 名稱 | 類別 | 簡述 |
 |-----------|------|------|
-| 待新增 | - | - |
+| [UI/UX Pro Max](./skills/web-development/ui-ux-pro-max/SKILL.md) | Web Development | 全方位 UI/UX 設計智能系統 |
 
 ---
 
 **維護說明**：當新增 skill 時，請同步更新本索引檔案的所有相關章節。建議使用自動化腳本來維護索引（未來可開發）。
 
 **最後更新**：2026-01-18  
-**Skills 總數**：18 個（2 個自創 + 16 個 Anthropic 官方）
+**Skills 總數**：19 個（2 個自創 + 16 個 Anthropic 官方 + 1 個社群）
