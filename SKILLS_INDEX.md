@@ -56,6 +56,7 @@
 
 | Skill 名稱 | 簡述 | 難度 | 來源 |
 |-----------|------|------|------|
+| [人工測試腳本](./skills/testing/manual-test-script/SKILL.md) | 撰寫標準化的人工測試案例，適合 QA/PM/業務執行 | 🟢 Beginner | Custom |
 | [Webapp Testing](./skills/testing/webapp-testing/SKILL.md) | 使用 Playwright 自動化測試網頁 | 🟡 Intermediate | Anthropic |
 | [QA Regression](./skills/testing/qa-regression/SKILL.md) | 建立標準化的 QA 回歸測試架構 | 🟢 Beginner | Skill Creator AI |
 | [TDD](./skills/testing/test-driven-development/SKILL.md) | 先寫測試再寫程式，確保程式碼邏輯正確 | 🔴 Advanced | Obra Superpowers |
@@ -150,6 +151,15 @@
 |-----------|------|------|------|
 | [Brainstorming](./skills/collaboration/brainstorming/SKILL.md) | 透過對話引導，將模糊想法轉化為具體架構 | 🟢 Beginner | Obra Superpowers |
 
+### 📊 Strategy
+
+> 商業策略與品牌體驗相關的 skills
+
+| Skill 名稱 | 簡述 | 難度 | 來源 |
+|-----------|------|------|------|
+| [峰值體驗策略顧問](./skills/strategy/peak-experience-consultant/SKILL.md) | 運用 MOT 理論分析品牌體驗，結合外部資料提供策略建議 | 🟡 Intermediate | Custom |
+| [逆向工程分析師](./skills/strategy/reverse-engineering-analyst/SKILL.md) | 系統性分析未知程式碼與系統，將黑盒子轉化為技術文件 | 🔴 Advanced | Custom |
+
 ---
 
 ## 按難度索引
@@ -163,6 +173,7 @@
 | [Brand Guidelines](./skills/documentation/brand-guidelines/SKILL.md) | Documentation | 檢查內容是否符合品牌語氣與規範 |
 | [Internal Comms](./skills/documentation/internal-comms/SKILL.md) | Documentation | 撰寫公司內部公告或信件 |
 | [Slack GIF Creator](./skills/custom/slack-gif-creator/SKILL.md) | Custom | 自動生成適合 Slack 溝通的 GIF 動畫 |
+| [人工測試腳本](./skills/testing/manual-test-script/SKILL.md) | Testing | 撰寫標準化的人工測試案例，適合 QA/PM/業務執行 |
 | [QA Regression](./skills/testing/qa-regression/SKILL.md) | Testing | 建立標準化的 QA 回歸測試架構 |
 | [Brainstorming](./skills/collaboration/brainstorming/SKILL.md) | Collaboration | 透過對話引導，將模糊想法轉化為具體架構 |
 | [Ask Questions](./skills/productivity/ask-questions-if-underspecified/SKILL.md) | Productivity | 當需求不清楚時，主動向您提問確認 |
@@ -191,6 +202,7 @@
 | [Fix failing CI](./skills/devops/gh-fix-ci/SKILL.md) | DevOps | 自動分析並修復 GitHub CI 錯誤 |
 | [Address PR comments](./skills/devops/gh-address-comments/SKILL.md) | DevOps | 快速處理 GitHub PR 的審查意見 |
 | [Code Debugging Analysis](./skills/debugging/code-debugging-analysis/SKILL.md) | Debugging | 使用系統化方法分析並解決程式錯誤 |
+| [峰值體驗策略顧問](./skills/strategy/peak-experience-consultant/SKILL.md) | Strategy | 運用 MOT 理論分析品牌體驗，結合外部資料提供策略建議 |
 
 ### 🔴 Advanced（進階）
 適合有豐富經驗的使用者
@@ -203,6 +215,7 @@
 | [Database Design](./skills/development/database-design/SKILL.md) | Database | 設計正規化的資料庫與優化查詢效能 |
 | [TDD](./skills/testing/test-driven-development/SKILL.md) | Testing | 先寫測試再寫程式，確保程式碼邏輯正確 |
 | [Systematic Debugging](./skills/debugging/systematic-debugging/SKILL.md) | Debugging | 透過四階段分析找出 Bug 的根本原因 |
+| [逆向工程分析師](./skills/strategy/reverse-engineering-analyst/SKILL.md) | Strategy | 系統性分析未知程式碼與系統，將黑盒子轉化為技術文件 |
 
 ---
 
@@ -266,6 +279,9 @@
 | [建立美觀落地頁](./skills/web-development/create-landing-page/SKILL.md) | Web Development | 快速建立專業級的響應式落地頁 |
 | [撰寫產品需求文件 (PRD)](./skills/documentation/write-prd/SKILL.md) | Documentation | 撰寫結構完整的商業導向 PRD |
 | [撰寫規格文件](./skills/documentation/write-specification/SKILL.md) | Documentation | 以 PM 角度撰寫清楚的功能規格書 |
+| [人工測試腳本](./skills/testing/manual-test-script/SKILL.md) | Testing | 撰寫標準化的人工測試案例，適合 QA/PM/業務執行 |
+| [峰值體驗策略顧問](./skills/strategy/peak-experience-consultant/SKILL.md) | Strategy | 運用 MOT 理論分析品牌體驗，結合外部資料提供策略建議 |
+| [逆向工程分析師](./skills/strategy/reverse-engineering-analyst/SKILL.md) | Strategy | 系統性分析未知程式碼與系統，將黑盒子轉化為技術文件 |
 
 ### 其他來源
 從其他社群或專案收集的 skills
@@ -286,5 +302,5 @@
 
 **維護說明**：當新增 skill 時，請同步更新本索引檔案的所有相關章節。建議使用自動化腳本來維護索引（未來可開發）。
 
-**最後更新**：2026-01-18  
-**Skills 總數**：32 個（3 個自創 + 16 個 Anthropic 官方 + 3 個 OpenAI 官方 + 4 個 Skill Creator AI + 3 個 Obra Superpowers + 1 個 HuggingFace 官方 + 2 個社群）
+**最後更新**：2026-01-29
+**Skills 總數**：35 個（6 個自創 + 16 個 Anthropic 官方 + 3 個 OpenAI 官方 + 4 個 Skill Creator AI + 3 個 Obra Superpowers + 1 個 HuggingFace 官方 + 2 個社群）
