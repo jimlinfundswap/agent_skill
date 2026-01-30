@@ -157,7 +157,7 @@
 
 | Skill 名稱 | 簡述 | 難度 | 來源 |
 |-----------|------|------|------|
-| [鉛獲取策略師](./skills/strategy/100m-leads-strategist/SKILL.md) | 運用《$100M Leads》框架倍增潛在客戶獲取量 | 🟡 Intermediate | Custom |
+| [潛在客戶獲取策略師](./skills/strategy/100m-leads-strategist/SKILL.md) | 運用《$100M Leads》框架倍增潛在客戶獲取量 | 🟡 Intermediate | Custom |
 | [大滿貫要約策略師](./skills/strategy/grand-slam-offer-strategist/SKILL.md) | 運用《$100M Offers》框架設計高轉換率的產品報價策略 | 🟡 Intermediate | Custom |
 | [峰值體驗策略顧問](./skills/strategy/peak-experience-consultant/SKILL.md) | 運用 MOT 理論分析品牌體驗，結合外部資料提供策略建議 | 🟡 Intermediate | Custom |
 | [逆向工程分析師](./skills/strategy/reverse-engineering-analyst/SKILL.md) | 系統性分析未知程式碼與系統，將黑盒子轉化為技術文件 | 🔴 Advanced | Custom |
@@ -204,7 +204,7 @@
 | [Fix failing CI](./skills/devops/gh-fix-ci/SKILL.md) | DevOps | 自動分析並修復 GitHub CI 錯誤 |
 | [Address PR comments](./skills/devops/gh-address-comments/SKILL.md) | DevOps | 快速處理 GitHub PR 的審查意見 |
 | [Code Debugging Analysis](./skills/debugging/code-debugging-analysis/SKILL.md) | Debugging | 使用系統化方法分析並解決程式錯誤 |
-| [鉛獲取策略師](./skills/strategy/100m-leads-strategist/SKILL.md) | Strategy | 運用《$100M Leads》框架倍增潛在客戶獲取量 |
+| [潛在客戶獲取策略師](./skills/strategy/100m-leads-strategist/SKILL.md) | Strategy | 運用《$100M Leads》框架倍增潛在客戶獲取量 |
 | [大滿貫要約策略師](./skills/strategy/grand-slam-offer-strategist/SKILL.md) | Strategy | 運用《$100M Offers》框架設計高轉換率的產品報價策略 |
 | [峰值體驗策略顧問](./skills/strategy/peak-experience-consultant/SKILL.md) | Strategy | 運用 MOT 理論分析品牌體驗，結合外部資料提供策略建議 |
 
@@ -284,7 +284,7 @@
 | [撰寫產品需求文件 (PRD)](./skills/documentation/write-prd/SKILL.md) | Documentation | 撰寫結構完整的商業導向 PRD |
 | [撰寫規格文件](./skills/documentation/write-specification/SKILL.md) | Documentation | 以 PM 角度撰寫清楚的功能規格書 |
 | [人工測試腳本](./skills/testing/manual-test-script/SKILL.md) | Testing | 撰寫標準化的人工測試案例，適合 QA/PM/業務執行 |
-| [鉛獲取策略師](./skills/strategy/100m-leads-strategist/SKILL.md) | Strategy | 運用《$100M Leads》框架倍增潛在客戶獲取量 |
+| [潛在客戶獲取策略師](./skills/strategy/100m-leads-strategist/SKILL.md) | Strategy | 運用《$100M Leads》框架倍增潛在客戶獲取量 |
 | [大滿貫要約策略師](./skills/strategy/grand-slam-offer-strategist/SKILL.md) | Strategy | 運用《$100M Offers》框架設計高轉換率的產品報價策略 |
 | [峰值體驗策略顧問](./skills/strategy/peak-experience-consultant/SKILL.md) | Strategy | 運用 MOT 理論分析品牌體驗，結合外部資料提供策略建議 |
 | [逆向工程分析師](./skills/strategy/reverse-engineering-analyst/SKILL.md) | Strategy | 系統性分析未知程式碼與系統，將黑盒子轉化為技術文件 |
